@@ -1,0 +1,608 @@
+{
+ "version": "noam-1",
+ "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-logo-dark.png",
+ "categories": [
+  {
+   "slug": "ambin-bathroom-cabinets",
+   "name": "ארונות אמבטיה אמבין",
+   "parent": "bathroom-cabinets",
+   "description": "ארונות אמבטיה מ-H.P.L של אמבין – ייצור ישראלי, עמידים במים ובלחות, עם אחריות לכל החיים נגד התנפחות. 26 גוונים ללא תוספת תשלום."
+  }
+ ],
+ "products": [
+  {
+   "sku": "AMB-NOAM",
+   "name": "ארון נועם תלוי – אמבין",
+   "slug": "ambin-noam-vanity-hanging",
+   "status": "publish",
+   "regular_price": "2590",
+   "short_description": "<p>ארון אמבטיה נועם תלוי מבית אמבין, עשוי H.P.L עמיד במים עם אחריות לכל החיים נגד התנפחות. רוחב לבחירה: 60–120 ס״מ, 2 מגירות בטריקה שקטה, כיור חרס סקיני ומראה עם מסגרת נירוסטה כלולים. 26 גוונים ללא תוספת תשלום.</p>",
+   "description": "<h2>ארון אמבטיה נועם – אמבין</h2><h3>הסט כולל</h3><ul><li>ארון תלוי מ-H.P.L עם 2 מגירות בטריקה שקטה, בגימור מבריק או מט</li><li>משטח כיור חרס סקיני איכותי בצבע לבן, בעומק 47 ס״מ</li><li>מראה יוקרתית עם מסגרת נירוסטה במידות הארון, בגובה 60 ס״מ</li><li>הארון מעוטר בקנטים יוקרתיים בגוון כסוף (אפשר גם לבן, אלון מט או שחור)</li></ul><h3>מידות ואפשרויות</h3><ul><li>רוחב: 60, 70, 75, 80, 90, 100, 120 ס״מ</li><li>גובה הארון 50 ס״מ, עומק הארון 40 ס״מ, עומק המשטח 47 ס״מ</li><li>26 גווני H.P.L לבחירה ללא תוספת תשלום – מט, מבריק ועץ</li></ul><h3>שדרוגים בתוספת תשלום</h3><ul><li>החלפה למראה עגולה מרחפת, או מראה עגולה עם מסגרת זהב / שחורה</li></ul><p><strong>שימו לב:</strong> הארון מגיע ללא ברז. המחיר כולל כיור ומראה, ומשתנה לפי הרוחב והתוספות שנבחרו.</p><h3>מחירון הובלה והתקנה (מתקין מוסמך של אמבין)</h3><table><tbody><tr><td>הובלה והתקנה סט עד 100 ס״מ</td><td>354 ₪</td></tr><tr><td>הובלה והתקנה סט 120 ס״מ</td><td>413 ₪</td></tr><tr><td>הובלה עד המדרכה בלבד</td><td>177 ₪</td></tr><tr><td>קידוח חור לברז</td><td>106 ₪</td></tr><tr><td>מעל קומה 2 ללא מעלית – לכל קומה</td><td>59 ₪</td></tr><tr><td>תוספת מרחק מעל 150 ק״מ</td><td>177 ₪</td></tr></tbody></table><ul><li>המחירים כוללים מע״מ.</li><li>ההתקנה מתבצעת על ידי מתקין מוסמך של אמבין בלבד, והתשלום מתבצע ישירות למתקין.</li><li>ההתקנה אינה כוללת עבודות אינסטלציה, חשמל ופירוק ארון קיים.</li></ul><h3>למה H.P.L של אמבין</h3><ul><li>H.P.L – שכבות פורמייקה דחוסות בעובי 12 מ״מ, עמיד במיוחד במים, בלחות, בעובש, בחום ובקור.</li><li>עמיד בחומרי ניקוי וחומרים כימיים.</li><li>עומד בתקן ישראלי 755, תקן אירופאי CGS ותקן אמריקאי NEMA LD3.</li><li>ייצור ישראלי – מפעל אמבין, חולון.</li></ul><h3>אחריות</h3><ul><li><strong>אחריות לכל החיים</strong> נגד התנפחות החומר.</li><li>אחריות מלאה בהתקנה על ידי מתקין מוסמך של אמבין.</li></ul><h3>אספקה וביטול הזמנה</h3><ol><li>זמן אספקה: עד 21 ימי עבודה.</li><li>הארון מיוצר לפי ההזמנה (מידה, צבע וקנטים). ניתן לבטל הזמנה עד 48 שעות ממועד ההזמנה.</li></ol>",
+   "categories": [
+    "ambin-bathroom-cabinets",
+    "bathroom-cabinets"
+   ],
+   "images": [
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/noam-1.jpg",
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/noam-2.jpg",
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/noam-3-drawing.jpg"
+   ],
+   "attributes": [
+    [
+     "מותג",
+     [
+      "אמבין"
+     ]
+    ],
+    [
+     "סוג",
+     [
+      "ארון אמבטיה"
+     ]
+    ],
+    [
+     "התקנה",
+     [
+      "תלוי"
+     ]
+    ],
+    [
+     "חומר",
+     [
+      "H.P.L"
+     ]
+    ],
+    [
+     "רוחב (ס״מ)",
+     [
+      "60",
+      "70",
+      "75",
+      "80",
+      "90",
+      "100",
+      "120"
+     ]
+    ],
+    [
+     "טריקה שקטה",
+     [
+      "כן"
+     ]
+    ],
+    [
+     "אחריות",
+     [
+      "לכל החיים נגד התנפחות"
+     ]
+    ]
+   ],
+   "addons": [
+    {
+     "name": "צבע H.P.L",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "כל 26 הגוונים ללא תוספת תשלום – מט, מבריק ועץ. חומר H.P.L עמיד במים ובלחות, עם אחריות לכל החיים נגד התנפחות.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 0,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb1",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "לבן שלג",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c01.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "לבן מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c02.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "לבן מבריק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c20.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "בז׳ מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c03.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "בז׳ מבריק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c21.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפור מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c04.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפור מבריק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c22.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפור עננים",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c19.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גרפיט מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c05.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גרפיט מבריק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c23.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שחור מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c15.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שחור מבריק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c24.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פסי כסף",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c16.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אלון מבוקע",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c17.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אלון בהיר",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c18.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "צהוב",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c06.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ירוק לימון",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c07.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ירוק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c08.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כתום",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c09.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "סגול",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c10.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אדום",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c11.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "בורדו",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c12.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "תכלת",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c13.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כחול",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c14.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כחול מנוקד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c25.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "בז׳ מנוקד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-color-c26.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "קנטים",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "הקנטים מעטרים את חזית הארון. כל האפשרויות ללא תוספת תשלום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 1,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb2",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "כסוף (סטנדרט)",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-edge-silver.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "לבן",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-edge-white.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אלון מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-edge-oak.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שחור",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/ambin-edge-black.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "רוחב",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "גובה 50 ס״מ, עומק הארון 40 ס״מ, עומק המשטח 47 ס״מ.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 2,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb3",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "60 ס״מ",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "70 ס״מ",
+       "price": "100",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "75 ס״מ",
+       "price": "200",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "80 ס״מ",
+       "price": "700",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "90 ס״מ",
+       "price": "800",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "100 ס״מ",
+       "price": "900",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "120 ס״מ",
+       "price": "1100",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "כיור",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "הכיור כלול במחיר.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 3,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb4",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "משטח כיור חרס סקיני לבן, עומק 47 ס״מ (כלול)",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/noam-sink.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "מראה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "המראה כלולה במחיר. אפשר להחליף למראה עגולה בתוספת תשלום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 4,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb5",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "מראה מסגרת נירוסטה, גובה 60 ס״מ (כלולה)",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/ambin/noam-mirror.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מרחפת Ø60",
+       "price": "159",
+       "image": "media:1660",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מרחפת Ø80",
+       "price": "239",
+       "image": "media:1660",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מסגרת זהב Ø60",
+       "price": "309",
+       "image": "media:1661",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מסגרת זהב Ø80",
+       "price": "389",
+       "image": "media:1661",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מסגרת שחורה Ø60",
+       "price": "309",
+       "image": "media:1662",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה עגולה מסגרת שחורה Ø80",
+       "price": "389",
+       "image": "media:1662",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "הובלה והתקנה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ההתקנה מתבצעת על ידי מתקין מוסמך של אמבין בלבד, לפי מחירון אמבין, והתשלום מתבצע ישירות למתקין ביום האספקה. קומה 3 ומעלה ללא מעלית: תוספת 59 ₪ לקומה. קידוח חור לברז: 106 ₪. לא כולל אינסטלציה, חשמל ופירוק.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 5,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "amb6",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "איסוף עצמי",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה עד הבית, פריקה למדרכה – 177 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנה ע״י מתקין אמבין – סט עד 100 ס״מ: 354 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנה ע״י מתקין אמבין – סט 120 ס״מ: 413 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    }
+   ],
+   "meta": {
+    "advanced_seo_description": "ארון אמבטיה נועם תלוי של אמבין מ-H.P.L עמיד במים, ברוחב 60–120 ס״מ, 26 גוונים, כיור ומראה כלולים. החל מ-2,590 ₪ כולל מע״מ, אחריות לכל החיים.",
+    "jetpack_seo_html_title": "ארון אמבטיה נועם תלוי אמבין H.P.L – מחיר, מידות וצבעים",
+    "_ambin_catalog_page": "52",
+    "_ambin_series": "נועם"
+   },
+   "prices_table": [
+    [
+     60,
+     3300,
+     2590
+    ],
+    [
+     70,
+     3500,
+     2690
+    ],
+    [
+     75,
+     3630,
+     2790
+    ],
+    [
+     80,
+     4180,
+     3290
+    ],
+    [
+     90,
+     4290,
+     3390
+    ],
+    [
+     100,
+     4510,
+     3490
+    ],
+    [
+     120,
+     4730,
+     3690
+    ]
+   ]
+  }
+ ]
+}
