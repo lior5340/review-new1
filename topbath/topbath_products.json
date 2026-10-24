@@ -1,0 +1,648 @@
+{
+ "version": "sample-1-R0.65",
+ "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
+ "categories": [
+  {
+   "slug": "topbath-bathroom-cabinets",
+   "name": "ארונות אמבטיה טופ בט",
+   "parent": "bathroom-cabinets",
+   "description": "ארונות אמבטיה של טופ בט – ייצור וייבוא מאז 2001. מגוון דגמים, גוונים ומידות, כולל כיור ומראה."
+  }
+ ],
+ "products": [
+  {
+   "sku": "TB-TOYA",
+   "name": "ארון טויה תלוי – טופ בט",
+   "slug": "topbath-toya-vanity-hanging",
+   "status": "publish",
+   "regular_price": "1290",
+   "short_description": "<p>ארון אמבטיה תלוי טויה מבית טופ בט, עם חזית מגירות בחריטות CNC. כולל משטח כיור חרס אינטגרלי, מראה קריסטל מרחפת וכיור מונח מתנה. רוחב 60–150 ס״מ, צבע אפוקסי לבחירה או פורניר עץ טבעי, 4 צבעי ידיות.</p>",
+   "description": "<h2>ארון אמבטיה טויה – טופ בט</h2><p>ארון אמבטיה תלוי עם חזית מגירות מעוצבת בחריטות CNC אנכיות – מראה עכשווי וחם שמתאים גם לאמבטיה קטנה וגם לחדר רחצה מרווח.</p><h3>הסט כולל</h3><ul><li>ארון תלוי עם מגירות (2 מגירות עד 120 ס״מ, 4 מגירות ב-150 ס״מ)</li><li>משטח כיור חרס אינטגרלי</li><li>מראה קריסטל בלגית מרחפת</li><li>מתנה: כיור מונח לבחירה</li></ul><h3>חומרים וגימור</h3><ul><li>גוף סנדוויץ׳ עם חזית MDF ירוק (עמיד לחות) בצבע אפוקסי לפי בחירה</li><li>או: גוף וחזית בפורניר עץ טבעי</li><li>ידיות בשחור, ניקל מוברש, זהב מט או רוז גולד</li></ul><h3>מידות</h3><ul><li>רוחב: 60, 80, 100, 120, 150 ס״מ</li><li>אפשר להזמין במידה מיוחדת – בפנייה לצ׳אט</li><li>ייתכנו סטיות של עד כ-5% במידות ובגוון</li></ul><h3>שדרוגים בתוספת תשלום</h3><ul><li>משטח בוצ׳ר או קוריאן במקום הכיור האינטגרלי</li><li>משטח חרס ללא חור לברז / קערה גדולה דגם LIKE</li><li>כיור זכוכית</li></ul><p><strong>שימו לב:</strong> הארון מגיע ללא ברז. המחיר משתנה לפי הרוחב, הגימור והשדרוגים שנבחרו.</p><h3>מחירון הובלה והתקנה (מתקין מורשה של טופ בט)</h3><table><tbody><tr><td>הובלה והתקנה לארון עד 120 ס״מ</td><td>413 ₪</td></tr><tr><td>הובלה והתקנה לארון מעל 120 ועד 150 ס״מ</td><td>590 ₪</td></tr><tr><td>הובלה והתקנה לארון 150–200 ס״מ</td><td>708 ₪</td></tr><tr><td>הובלה עד המדרכה בלבד</td><td>236 ₪</td></tr><tr><td>תוספת קומה 3 ומעלה ללא מעלית – לקומה</td><td>59 ₪</td></tr><tr><td>מדידה בבית הלקוח</td><td>236 ₪</td></tr><tr><td>תוספת מרחק (אילת, צפון רחוק וערבה)</td><td>885 ₪</td></tr></tbody></table><ul><li>המחירים כוללים מע״מ. התשלום מתבצע ישירות למתקין.</li><li>ההתקנה אינה כוללת אינסטלציה, חשמל ופירוק ארון קיים.</li><li>חברת טופ בט אינה אחראית לנזקים בהתקנה שלא בוצעה על ידי מתקין מטעמה.</li></ul><h3>על טופ בט</h3><p>טופ בט פועלת מאז 2001 בייצור, ייבוא ושיווק ארונות אמבטיה, מקלחונים וכלים סניטריים, ומוכרת לרשתות ריהוט אמבטיה בכל הארץ. אחריות יצרן לפי תנאי טופ בט.</p>",
+   "categories": [
+    "topbath-bathroom-cabinets",
+    "bathroom-cabinets"
+   ],
+   "images": [
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/toya-1.jpg"
+   ],
+   "attributes": [
+    [
+     "מותג",
+     [
+      "טופ בט"
+     ]
+    ],
+    [
+     "סוג",
+     [
+      "ארון אמבטיה"
+     ]
+    ],
+    [
+     "התקנה",
+     [
+      "תלוי"
+     ]
+    ],
+    [
+     "חזית",
+     [
+      "מגירות בחריטות CNC"
+     ]
+    ],
+    [
+     "חומר",
+     [
+      "סנדוויץ׳ + MDF ירוק עמיד לחות",
+      "פורניר עץ טבעי"
+     ]
+    ],
+    [
+     "רוחב (ס״מ)",
+     [
+      "60",
+      "80",
+      "100",
+      "120",
+      "150"
+     ]
+    ],
+    [
+     "מגירות",
+     [
+      "2 (60–120 ס״מ)",
+      "4 (150 ס״מ)"
+     ]
+    ],
+    [
+     "גימור",
+     [
+      "צבע אפוקסי – 12 גוונים",
+      "עץ טבעי"
+     ]
+    ],
+    [
+     "ידיות",
+     [
+      "שחור",
+      "ניקל מוברש",
+      "זהב מט",
+      "רוז גולד"
+     ]
+    ],
+    [
+     "כולל",
+     [
+      "משטח כיור חרס אינטגרלי",
+      "מראה קריסטל מרחפת",
+      "כיור מונח מתנה"
+     ]
+    ]
+   ],
+   "addons": [
+    {
+     "name": "רוחב וגימור",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "המחיר משתנה לפי הרוחב והגימור. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 0,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb1",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "60 ס״מ · 2 מגירות · צבע אפוקסי",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "60 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "price": "100",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "80 ס״מ · 2 מגירות · צבע אפוקסי",
+       "price": "100",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "80 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "price": "200",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "100 ס״מ · 2 מגירות · צבע אפוקסי",
+       "price": "500",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "100 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "price": "600",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "120 ס״מ · 2 מגירות · צבע אפוקסי",
+       "price": "1200",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "120 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "price": "1300",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "150 ס״מ · 4 מגירות · צבע אפוקסי",
+       "price": "2300",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "150 ס״מ · 4 מגירות · פורניר עץ טבעי",
+       "price": "2500",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "גוון",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "צבע אפוקסי לפי בחירה ללא תוספת. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של טופ בט.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 1,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb2",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "לבן",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-01.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ניוד ורדרד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-02.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שחור",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-03.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גריג׳",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-04.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ירוק מרווה",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-05.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ירוק בקבוק",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-06.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ירוק טורקיז",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-07.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "חום מוקה",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-08.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כחול אפרפר",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-09.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "חרדל",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-10.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפור גרפיט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-11.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אבן",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-color-12.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "עץ טבעי (אם בחרתם פורניר עץ)",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-wood.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "צבע הידיות",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ללא תוספת תשלום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 3,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb3",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "שחור",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-handle-black.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ניקל מוברש",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-handle-nickel.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "זהב מט",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-handle-gold.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוז גולד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-handle-rosegold.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "משטח וכיור",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "המחיר כולל משטח כיור חרס אינטגרלי. אפשר לשדרג.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 4,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb4",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "משטח כיור חרס אינטגרלי (כלול)",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח חרס אינטגרלי ללא חור לברז (60–120)",
+       "price": "149",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח כיור אינטגרלי עם קערה גדולה דגם LIKE (60–120)",
+       "price": "149",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור זכוכית בעומק 46 (60–120)",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח בוצ׳ר / קוריאן 60 ס״מ (במקום הכיור האינטגרלי)",
+       "price": "519",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח בוצ׳ר / קוריאן 80 ס״מ (במקום הכיור האינטגרלי)",
+       "price": "639",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח בוצ׳ר / קוריאן 100 ס״מ (במקום הכיור האינטגרלי)",
+       "price": "809",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח בוצ׳ר / קוריאן 120 ס״מ (במקום הכיור האינטגרלי)",
+       "price": "979",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "משטח בוצ׳ר / קוריאן 150 ס״מ (במקום הכיור האינטגרלי)",
+       "price": "1390",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "כיור מונח מתנה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "מתנה מטופ בט: כיור מונח לבחירה, ללא תוספת תשלום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 5,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb5",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "ללא",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח לבן 40×40×15",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-007062.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח לבן 60×38.5×13",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-007061.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח מרובע 46×46×16",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-007059.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח עגול 43×43×17",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-007060.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח מרובע 36×36×11",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-0007101.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח מלבני 46×36×11",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-0007102.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור חצי שקוע 60×40×18",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-00763.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח אובלי 56.5×36.5×14.5",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-11164.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח אליפטי 41×34×14.5",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-10321.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח עגול 40×40×11",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-12022.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח מלבני 49×38×13",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-11167.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח משולש 59×39×13",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-002305.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח אובלי 48×32×14",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-10332.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח מוארך 64×37×16",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-12026.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "כיור מונח עגול 31×31×15.4",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/sink-10328.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "הובלה והתקנה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 6,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "tb6",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "איסוף עצמי",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    }
+   ],
+   "meta": {
+    "advanced_seo_description": "ארון אמבטיה תלוי טויה של טופ בט, חזית מגירות בחריטות CNC, רוחב 60–150 ס״מ, כולל כיור ומראה. החל מ-1,290 ₪ כולל מע״מ.",
+    "_bm_supplier": "topbath",
+    "_bm_catalog_numbers": "{\"wood-60\": 14182, \"wood-80\": 14183, \"wood-100\": 14184, \"wood-120\": 14185, \"wood-150\": 14186, \"epox-60\": 14177, \"epox-80\": 14178, \"epox-100\": 14179, \"epox-120\": 14180, \"epox-150\": 14181}"
+   }
+  }
+ ]
+}
