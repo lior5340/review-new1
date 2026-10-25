@@ -1,5 +1,5 @@
 {
- "version": "all-2",
+ "version": "all-3",
  "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
  "categories": [
   {
@@ -1144,7 +1144,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -1162,35 +1162,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -1713,7 +1713,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -1731,35 +1731,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -1926,14 +1926,14 @@
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99795074.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -2129,7 +2129,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -2147,35 +2147,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -2685,7 +2685,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -2703,35 +2703,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -2911,14 +2911,14 @@
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99795074.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -3149,7 +3149,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -3167,35 +3167,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -3728,7 +3728,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -3746,35 +3746,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -3981,7 +3981,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -3999,21 +3999,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -4193,14 +4193,14 @@
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99795074.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -4431,7 +4431,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -4449,35 +4449,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -4994,7 +4994,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -5012,35 +5012,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -5247,7 +5247,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -5265,21 +5265,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -5638,7 +5638,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -5656,35 +5656,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -5782,14 +5782,14 @@
       {
        "label": "אפוקסי לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-48681695.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90896064.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -5906,7 +5906,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -5924,21 +5924,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -6498,7 +6498,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -6516,35 +6516,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -6643,21 +6643,21 @@
       {
        "label": "גוף לבן חזית עץ טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-69021525.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-11370258.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "גוף טבעי חזית לבנה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-2559327.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-62085728.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "גוף לבן חזית לבנה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-52778461.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-82933904.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -6774,7 +6774,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -6792,21 +6792,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -7368,7 +7368,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -7386,35 +7386,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -7622,7 +7622,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -7640,21 +7640,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -8209,7 +8209,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -8227,35 +8227,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -8463,7 +8463,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -8481,21 +8481,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -8851,7 +8851,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -8869,35 +8869,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -9437,7 +9437,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -9455,35 +9455,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -9696,7 +9696,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -9714,21 +9714,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -10239,7 +10239,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -10257,35 +10257,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -10784,7 +10784,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -10802,35 +10802,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -11043,7 +11043,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -11061,21 +11061,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -11608,7 +11608,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -11626,35 +11626,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -11867,7 +11867,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -11885,21 +11885,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -12373,7 +12373,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -12391,35 +12391,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -12632,7 +12632,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -12650,21 +12650,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -13141,7 +13141,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -13159,35 +13159,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -13648,7 +13648,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -13666,35 +13666,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -13806,35 +13806,35 @@
       {
        "label": "חזית חלקה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-56195732.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-94544346.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית פלאט",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-36272422.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-89616276.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית מסגרת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-58699684.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99695533.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית פסים",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-20715982.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-18249875.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית אינטגרלית",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-77184666.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-9642848.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14086,7 +14086,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -14104,35 +14104,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -14242,14 +14242,14 @@
       {
        "label": "חזית תריס",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-37349789.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-68774328.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית מסגרת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-58699684.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99695533.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14501,7 +14501,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -14519,35 +14519,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -14654,35 +14654,35 @@
       {
        "label": "לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-57658850.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-81411631.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שחור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14063613.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-10481237.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שמנת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84664982.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-92798503.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אפור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-50000826.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-91446059.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14692,7 +14692,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -14710,35 +14710,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -14846,21 +14846,21 @@
       {
        "label": "לבן מבריק",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-57984139.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14087471.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שמנת מבריק",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-15257397.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-41715220.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14870,7 +14870,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -14888,35 +14888,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -15020,21 +15020,21 @@
       {
        "label": "לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-57658850.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-81411631.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שחור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14063613.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-10481237.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87002492.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -15044,7 +15044,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -15062,35 +15062,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -15402,7 +15402,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -15420,35 +15420,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -15547,28 +15547,28 @@
       {
        "label": "פורמייקה טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-15862819.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-72235642.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "פורמייקה בטון",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-96147365.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-64991529.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "פורמייקה לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-35665301.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-52524302.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אפוקסי לבן",
        "price": "140",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-48681695.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90896064.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -15578,7 +15578,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -15596,21 +15596,21 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון שירות / קלפה (בהזמנה בודדת): 295 ₪",
+       "label": "הובלה + התקנה לארון שירות – 295 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -15885,7 +15885,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -15903,35 +15903,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -16243,7 +16243,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -16261,35 +16261,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
@@ -16631,7 +16631,7 @@
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ההתקנה מתבצעת על ידי מתקין מורשה של טופ בט בלבד, לפי מחירון החברה, והתשלום מתבצע ישירות למתקין ביום האספקה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
+     "description": "לא נגבה באתר. את הסכום משלמים ישירות למתקין המורשה של טופ בט ביום ההתקנה. קומה 3 ומעלה ללא מעלית: 59 ₪ לקומה. לא כולל אינסטלציה, חשמל ופירוק ארון קיים.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -16649,35 +16649,35 @@
      "default": "",
      "options": [
       {
-       "label": "איסוף עצמי",
+       "label": "איסוף עצמי – ללא עלות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון עד 120 ס״מ: 413 ₪",
+       "label": "הובלה + התקנה (ארון עד 120) – 413 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון מעל 120 ועד 150 ס״מ: 590 ₪",
+       "label": "הובלה + התקנה (ארון 120–150) – 590 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה והתקנה לארון 150–200 ס״מ: 708 ₪",
+       "label": "הובלה + התקנה (ארון 150–200) – 708 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "הובלה עד המדרכה בלבד: 236 ₪",
+       "label": "הובלה עד המדרכה, בלי התקנה – 236 ₪ משולם למתקין",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
