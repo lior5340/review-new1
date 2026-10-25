@@ -1,5 +1,5 @@
 {
- "version": "sample-2-R0.65",
+ "version": "sample-3-R0.65",
  "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
  "categories": [
   {
@@ -104,7 +104,7 @@
      "name": "רוחב וגימור",
      "title_format": "label",
      "description_enable": 1,
-     "description": "המחיר משתנה לפי הרוחב והגימור. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט.",
+     "description": "צבע אפוקסי או פורניר עץ טבעי. 2 מגירות עד 120 ס״מ, 4 מגירות ב-150 ס״מ. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -122,70 +122,70 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות · צבע אפוקסי",
+       "label": "אפוקסי 60 ס״מ",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "60 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "label": "עץ טבעי 60 ס״מ",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות · צבע אפוקסי",
+       "label": "אפוקסי 80 ס״מ",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "label": "עץ טבעי 80 ס״מ",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות · צבע אפוקסי",
+       "label": "אפוקסי 100 ס״מ",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "label": "עץ טבעי 100 ס״מ",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות · צבע אפוקסי",
+       "label": "אפוקסי 120 ס״מ",
        "price": "1200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות · פורניר עץ טבעי",
+       "label": "עץ טבעי 120 ס״מ",
        "price": "1300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מגירות · צבע אפוקסי",
+       "label": "אפוקסי 150 ס״מ",
        "price": "2300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מגירות · פורניר עץ טבעי",
+       "label": "עץ טבעי 150 ס״מ",
        "price": "2500",
        "image": "",
        "price_type": "flat_fee",
@@ -194,7 +194,7 @@
      ]
     },
     {
-     "name": "גוון",
+     "name": "צבע",
      "title_format": "label",
      "description_enable": 1,
      "description": "צבע אפוקסי לפי בחירה ללא תוספת. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של טופ בט.",
@@ -308,10 +308,10 @@
      ]
     },
     {
-     "name": "צבע הידיות",
+     "name": "ידיות",
      "title_format": "label",
      "description_enable": 1,
-     "description": "ללא תוספת תשלום.",
+     "description": "צבע הידיות – ללא תוספת תשלום.",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -445,7 +445,7 @@
      ]
     },
     {
-     "name": "כיור מונח מתנה",
+     "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
      "description": "מתנה מטופ בט: כיור מונח לבחירה, ללא תוספת תשלום.",
