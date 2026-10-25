@@ -1,5 +1,5 @@
 {
- "version": "sample-4-R0.65",
+ "version": "sample-5-R0.65",
  "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
  "categories": [
   {
@@ -362,7 +362,7 @@
      "name": "משטח וכיור",
      "title_format": "label",
      "description_enable": 1,
-     "description": "המחיר כולל משטח כיור חרס אינטגרלי. אפשר לשדרג.",
+     "description": "כיור אינטגרלי (כיור ומשטח בחלק אחד) כלול במחיר. אפשר לשדרג, או לבחור משטח בוצ׳ר / קוריאן עם כיור מונח – את הכיור המונח בוחרים בשלב \"מתנה\".",
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
@@ -380,63 +380,63 @@
      "default": "",
      "options": [
       {
-       "label": "משטח כיור חרס אינטגרלי (כלול)",
+       "label": "כיור חרס אינטגרלי",
        "price": "",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-integral.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח חרס אינטגרלי ללא חור לברז (60–120)",
+       "label": "כיור חרס אינטגרלי ללא חור לברז (60–120 ס״מ)",
        "price": "149",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-notap.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח כיור אינטגרלי עם קערה גדולה דגם LIKE (60–120)",
+       "label": "כיור אינטגרלי עם קערה גדולה LIKE (60–120 ס״מ)",
        "price": "149",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-like.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "כיור זכוכית בעומק 46 (60–120)",
+       "label": "כיור זכוכית בעומק 46 (60–120 ס״מ)",
        "price": "279",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-glass.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח בוצ׳ר / קוריאן 60 ס״מ",
+       "label": "משטח בוצ׳ר / קוריאן (60 ס״מ)",
        "price": "519",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-butcher.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח בוצ׳ר / קוריאן 80 ס״מ",
+       "label": "משטח בוצ׳ר / קוריאן (80 ס״מ)",
        "price": "639",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-butcher.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח בוצ׳ר / קוריאן 100 ס״מ",
+       "label": "משטח בוצ׳ר / קוריאן (100 ס״מ)",
        "price": "809",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-butcher.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח בוצ׳ר / קוריאן 120 ס״מ",
+       "label": "משטח בוצ׳ר / קוריאן (120 ס״מ)",
        "price": "979",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-butcher.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "משטח בוצ׳ר / קוריאן 150 ס״מ",
+       "label": "משטח בוצ׳ר / קוריאן (150 ס״מ)",
        "price": "1390",
        "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-top-butcher.jpg",
        "price_type": "flat_fee",
