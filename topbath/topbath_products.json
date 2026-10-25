@@ -1,5 +1,5 @@
 {
- "version": "all-3",
+ "version": "all-4",
  "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
  "categories": [
   {
@@ -746,70 +746,70 @@
      "default": "",
      "options": [
       {
-       "label": "עץ טבעי 60 ס״מ",
+       "label": "עץ טבעי · רוחב 60",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 80 ס״מ",
+       "label": "עץ טבעי · רוחב 80",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 100 ס״מ",
+       "label": "עץ טבעי · רוחב 100",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 120 ס״מ",
+       "label": "עץ טבעי · רוחב 120",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 150 ס״מ",
+       "label": "עץ טבעי · רוחב 150",
        "price": "2300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 60 ס״מ",
+       "label": "צבע אפוקסי · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 80 ס״מ",
+       "label": "צבע אפוקסי · רוחב 80",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 100 ס״מ",
+       "label": "צבע אפוקסי · רוחב 100",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 120 ס״מ",
+       "label": "צבע אפוקסי · רוחב 120",
        "price": "800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 150 ס״מ",
+       "label": "צבע אפוקסי · רוחב 150",
        "price": "2100",
        "image": "",
        "price_type": "flat_fee",
@@ -1204,7 +1204,7 @@
     "jetpack_seo_html_title": "ארון דוכס תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "32",
-    "_bm_catalog_numbers": "{\"עץ טבעי 60 ס״מ\": \"14193\", \"עץ טבעי 80 ס״מ\": \"14194\", \"עץ טבעי 100 ס״מ\": \"14195\", \"עץ טבעי 120 ס״מ\": \"14196\", \"עץ טבעי 150 ס״מ\": \"14197\", \"צבע אפוקסי 60 ס״מ\": \"14188\", \"צבע אפוקסי 80 ס״מ\": \"14189\", \"צבע אפוקסי 100 ס״מ\": \"14190\", \"צבע אפוקסי 120 ס״מ\": \"14191\", \"צבע אפוקסי 150 ס״מ\": \"14192\"}"
+    "_bm_catalog_numbers": "{\"עץ טבעי · רוחב 60\": \"14193\", \"עץ טבעי · רוחב 80\": \"14194\", \"עץ טבעי · רוחב 100\": \"14195\", \"עץ טבעי · רוחב 120\": \"14196\", \"עץ טבעי · רוחב 150\": \"14197\", \"צבע אפוקסי · רוחב 60\": \"14188\", \"צבע אפוקסי · רוחב 80\": \"14189\", \"צבע אפוקסי · רוחב 100\": \"14190\", \"צבע אפוקסי · רוחב 120\": \"14191\", \"צבע אפוקסי · רוחב 150\": \"14192\"}"
    }
   },
   {
@@ -1303,70 +1303,70 @@
      "default": "",
      "options": [
       {
-       "label": "עץ טבעי 60 ס״מ",
+       "label": "עץ טבעי · רוחב 60",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 80 ס״מ",
+       "label": "עץ טבעי · רוחב 80",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 100 ס״מ",
+       "label": "עץ טבעי · רוחב 100",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 120 ס״מ",
+       "label": "עץ טבעי · רוחב 120",
        "price": "1100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "עץ טבעי 150 ס״מ",
+       "label": "עץ טבעי · רוחב 150",
        "price": "2900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 60 ס״מ",
+       "label": "צבע אפוקסי · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 80 ס״מ",
+       "label": "צבע אפוקסי · רוחב 80",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 100 ס״מ",
+       "label": "צבע אפוקסי · רוחב 100",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 120 ס״מ",
+       "label": "צבע אפוקסי · רוחב 120",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "צבע אפוקסי 150 ס״מ",
+       "label": "צבע אפוקסי · רוחב 150",
        "price": "2700",
        "image": "",
        "price_type": "flat_fee",
@@ -1773,7 +1773,7 @@
     "jetpack_seo_html_title": "ארון רוזן תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "34",
-    "_bm_catalog_numbers": "{\"עץ טבעי 60 ס״מ\": \"14203\", \"עץ טבעי 80 ס״מ\": \"14204\", \"עץ טבעי 100 ס״מ\": \"14205\", \"עץ טבעי 120 ס״מ\": \"14201\", \"עץ טבעי 150 ס״מ\": \"14216\", \"צבע אפוקסי 60 ס״מ\": \"14198\", \"צבע אפוקסי 80 ס״מ\": \"14199\", \"צבע אפוקסי 100 ס״מ\": \"14200\", \"צבע אפוקסי 120 ס״מ\": \"14206\", \"צבע אפוקסי 150 ס״מ\": \"14202\"}"
+    "_bm_catalog_numbers": "{\"עץ טבעי · רוחב 60\": \"14203\", \"עץ טבעי · רוחב 80\": \"14204\", \"עץ טבעי · רוחב 100\": \"14205\", \"עץ טבעי · רוחב 120\": \"14201\", \"עץ טבעי · רוחב 150\": \"14216\", \"צבע אפוקסי · רוחב 60\": \"14198\", \"צבע אפוקסי · רוחב 80\": \"14199\", \"צבע אפוקסי · רוחב 100\": \"14200\", \"צבע אפוקסי · רוחב 120\": \"14206\", \"צבע אפוקסי · רוחב 150\": \"14202\"}"
    }
   },
   {
@@ -1845,7 +1845,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -1866,35 +1866,35 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות",
+       "label": "רוחב 120 · 2 מגירות",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מגירות",
+       "label": "רוחב 150 · 4 מגירות",
        "price": "2100",
        "image": "",
        "price_type": "flat_fee",
@@ -1926,14 +1926,14 @@
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-28045598.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -2189,7 +2189,7 @@
     "jetpack_seo_html_title": "ארון ארגוס תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "36",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"12866\", \"80 ס״מ · 2 מגירות\": \"12867\", \"100 ס״מ · 2 מגירות\": \"12868\", \"120 ס״מ · 2 מגירות\": \"12869\", \"150 ס״מ · 4 מגירות\": \"12870\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"12866\", \"רוחב 80 · 2 מגירות\": \"12867\", \"רוחב 100 · 2 מגירות\": \"12868\", \"רוחב 120 · 2 מגירות\": \"12869\", \"רוחב 150 · 4 מגירות\": \"12870\"}"
    }
   },
   {
@@ -2259,7 +2259,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -2280,35 +2280,35 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות",
+       "label": "רוחב 120 · 2 מגירות",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מג׳ + 2 דל׳",
+       "label": "רוחב 150 · 2 מג׳ + 2 דל׳",
        "price": "2200",
        "image": "",
        "price_type": "flat_fee",
@@ -2745,7 +2745,7 @@
     "jetpack_seo_html_title": "ארון אסטוריה תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "37",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"12861\", \"80 ס״מ · 2 מגירות\": \"12862\", \"100 ס״מ · 2 מגירות\": \"12863\", \"120 ס״מ · 2 מגירות\": \"12864\", \"150 ס״מ · 2 מג׳ + 2 דל׳\": \"12865\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"12861\", \"רוחב 80 · 2 מגירות\": \"12862\", \"רוחב 100 · 2 מגירות\": \"12863\", \"רוחב 120 · 2 מגירות\": \"12864\", \"רוחב 150 · 2 מג׳ + 2 דל׳\": \"12865\"}"
    }
   },
   {
@@ -2816,7 +2816,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -2837,49 +2837,49 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70/80 ס״מ · 2 מגירות",
+       "label": "רוחב 70/80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90/100 ס״מ · 2 מגירות",
+       "label": "רוחב 90/100 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90/100 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 90/100 · 2 מג׳ ודלת",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "110/120 ס״מ · 2 מגירות",
+       "label": "רוחב 110/120 · 2 מגירות",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "110/120 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 110/120 · 2 מג׳ ודלת",
        "price": "1200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "130/140/150 ס״מ · 2 מג׳ 2 דל׳",
+       "label": "רוחב 130/140/150 · 2 מג׳ 2 דל׳",
        "price": "2300",
        "image": "",
        "price_type": "flat_fee",
@@ -2911,14 +2911,14 @@
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-28045598.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -3209,7 +3209,7 @@
     "jetpack_seo_html_title": "ארון ספרטה תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "38",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"12848\", \"70/80 ס״מ · 2 מגירות\": \"12849\", \"90/100 ס״מ · 2 מגירות\": \"12850\", \"90/100 ס״מ · 2 מג׳ ודלת\": \"12851\", \"110/120 ס״מ · 2 מגירות\": \"12852\", \"110/120 ס״מ · 2 מג׳ ודלת\": \"12853\", \"130/140/150 ס״מ · 2 מג׳ 2 דל׳\": \"12860\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"12848\", \"רוחב 70/80 · 2 מגירות\": \"12849\", \"רוחב 90/100 · 2 מגירות\": \"12850\", \"רוחב 90/100 · 2 מג׳ ודלת\": \"12851\", \"רוחב 110/120 · 2 מגירות\": \"12852\", \"רוחב 110/120 · 2 מג׳ ודלת\": \"12853\", \"רוחב 130/140/150 · 2 מג׳ 2 דל׳\": \"12860\"}"
    }
   },
   {
@@ -3281,7 +3281,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אשרות (עמוד שירות תלוי): 120x40x32 ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -3302,57 +3302,78 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 מגירות",
+       "label": "רוחב 70 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מגירות",
+       "label": "רוחב 90 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות",
+       "label": "רוחב 120 · 2 מגירות",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג׳ כיור בודד",
+       "label": "רוחב 150 · 4 מג׳ כיור בודד",
        "price": "3000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג׳ כיור כפול",
+       "label": "רוחב 150 · 4 מג׳ כיור כפול",
        "price": "3300",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "679",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -3553,43 +3574,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -3598,7 +3582,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -3733,7 +3717,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -3788,7 +3772,7 @@
     "jetpack_seo_html_title": "ארון ואו תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "39",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"007099\", \"70 ס״מ · 2 מגירות\": \"0002518\", \"80 ס״מ · 2 מגירות\": \"007100\", \"90 ס״מ · 2 מגירות\": \"0002521\", \"100 ס״מ · 2 מגירות\": \"007101\", \"120 ס״מ · 2 מגירות\": \"007102\", \"150 ס״מ · 4 מג׳ כיור בודד\": \"0002524\", \"150 ס״מ · 4 מג׳ כיור כפול\": \"0002527\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"007099\", \"רוחב 70 · 2 מגירות\": \"0002518\", \"רוחב 80 · 2 מגירות\": \"007100\", \"רוחב 90 · 2 מגירות\": \"0002521\", \"רוחב 100 · 2 מגירות\": \"007101\", \"רוחב 120 · 2 מגירות\": \"007102\", \"רוחב 150 · 4 מג׳ כיור בודד\": \"0002524\", \"רוחב 150 · 4 מג׳ כיור כפול\": \"0002527\"}"
    }
   },
   {
@@ -3841,7 +3825,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -4098,7 +4082,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -4119,49 +4103,49 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70/80 ס״מ · 2 מגירות",
+       "label": "רוחב 70/80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90/100 ס״מ · 2 מגירות",
+       "label": "רוחב 90/100 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90/100 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 90/100 · 2 מג׳ ודלת",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "110/120 ס״מ · 2 מגירות",
+       "label": "רוחב 110/120 · 2 מגירות",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "110/120 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 110/120 · 2 מג׳ ודלת",
        "price": "1200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "130/140/150 ס״מ · 2 מג׳ 2 דל׳",
+       "label": "רוחב 130/140/150 · 2 מג׳ 2 דל׳",
        "price": "2300",
        "image": "",
        "price_type": "flat_fee",
@@ -4193,14 +4177,14 @@
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אגוז",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-84831778.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-28045598.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -4491,7 +4475,7 @@
     "jetpack_seo_html_title": "ארון קורפו תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "40",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"12871\", \"70/80 ס״מ · 2 מגירות\": \"12872\", \"90/100 ס״מ · 2 מגירות\": \"12873\", \"90/100 ס״מ · 2 מג׳ ודלת\": \"12874\", \"110/120 ס״מ · 2 מגירות\": \"12875\", \"110/120 ס״מ · 2 מג׳ ודלת\": \"12876\", \"130/140/150 ס״מ · 2 מג׳ 2 דל׳\": \"12877\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"12871\", \"רוחב 70/80 · 2 מגירות\": \"12872\", \"רוחב 90/100 · 2 מגירות\": \"12873\", \"רוחב 90/100 · 2 מג׳ ודלת\": \"12874\", \"רוחב 110/120 · 2 מגירות\": \"12875\", \"רוחב 110/120 · 2 מג׳ ודלת\": \"12876\", \"רוחב 130/140/150 · 2 מג׳ 2 דל׳\": \"12877\"}"
    }
   },
   {
@@ -4561,7 +4545,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ארון שירות (א.שרות) 150x40x30 אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -4582,36 +4566,57 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות",
+       "label": "רוחב 120 · 2 מגירות",
        "price": "800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מגירות",
+       "label": "רוחב 150 · 4 מגירות",
        "price": "2600",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "579",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -4819,43 +4824,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -4864,7 +4832,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -4999,7 +4967,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -5054,7 +5022,7 @@
     "jetpack_seo_html_title": "ארון איילנד תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "41",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"12571\", \"80 ס״מ · 2 מגירות\": \"12572\", \"100 ס״מ · 2 מגירות\": \"12573\", \"120 ס״מ · 2 מגירות\": \"12575\", \"150 ס״מ · 4 מגירות\": \"12576\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"12571\", \"רוחב 80 · 2 מגירות\": \"12572\", \"רוחב 100 · 2 מגירות\": \"12573\", \"רוחב 120 · 2 מגירות\": \"12575\", \"רוחב 150 · 4 מגירות\": \"12576\"}"
    }
   },
   {
@@ -5107,7 +5075,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -5391,56 +5359,56 @@
      "default": "",
      "options": [
       {
-       "label": "אפוקסי לבן 60 ס״מ · 2 מגירות",
+       "label": "אפוקסי לבן · רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 80 ס״מ · 2 מגירות",
+       "label": "אפוקסי לבן · רוחב 80 · 2 מגירות",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 100 ס״מ · 2 מגירות",
+       "label": "אפוקסי לבן · רוחב 100 · 2 מגירות",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 120 ס״מ · 2 מגירות",
+       "label": "אפוקסי לבן · רוחב 120 · 2 מגירות",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "טבעי 60 ס״מ · 2 מגירות",
+       "label": "טבעי · רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "טבעי 80 ס״מ · 2 מגירות",
+       "label": "טבעי · רוחב 80 · 2 מגירות",
        "price": "100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "טבעי 100 ס״מ · 2 מגירות",
+       "label": "טבעי · רוחב 100 · 2 מגירות",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "טבעי 120 ס״מ · 2 מגירות",
+       "label": "טבעי · רוחב 120 · 2 מגירות",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
@@ -5698,7 +5666,7 @@
     "jetpack_seo_html_title": "ארון וודן תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "42",
-    "_bm_catalog_numbers": "{\"אפוקסי לבן 60 ס״מ · 2 מגירות\": \"14003\", \"אפוקסי לבן 80 ס״מ · 2 מגירות\": \"14004\", \"אפוקסי לבן 100 ס״מ · 2 מגירות\": \"14005\", \"אפוקסי לבן 120 ס״מ · 2 מגירות\": \"14006\", \"טבעי 60 ס״מ · 2 מגירות\": \"0002402\", \"טבעי 80 ס״מ · 2 מגירות\": \"0002403\", \"טבעי 100 ס״מ · 2 מגירות\": \"0002404\", \"טבעי 120 ס״מ · 2 מגירות\": \"0002405\"}"
+    "_bm_catalog_numbers": "{\"אפוקסי לבן · רוחב 60 · 2 מגירות\": \"14003\", \"אפוקסי לבן · רוחב 80 · 2 מגירות\": \"14004\", \"אפוקסי לבן · רוחב 100 · 2 מגירות\": \"14005\", \"אפוקסי לבן · רוחב 120 · 2 מגירות\": \"14006\", \"טבעי · רוחב 60 · 2 מגירות\": \"0002402\", \"טבעי · רוחב 80 · 2 מגירות\": \"0002403\", \"טבעי · רוחב 100 · 2 מגירות\": \"0002404\", \"טבעי · רוחב 120 · 2 מגירות\": \"0002405\"}"
    }
   },
   {
@@ -5782,14 +5750,14 @@
       {
        "label": "אפוקסי לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90896064.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-36630058.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -6051,85 +6019,148 @@
      "default": "",
      "options": [
       {
-       "label": "גוף לבן חזית עץ טבעי 60 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית עץ טבעי · רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית עץ טבעי 80 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית עץ טבעי · רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית עץ טבעי 100 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית עץ טבעי · רוחב 100 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית עץ טבעי 120 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית עץ טבעי · רוחב 120 · 2 מגירות",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף טבעי חזית לבנה 60 ס״מ · 2 מגירות",
+       "label": "גוף טבעי חזית לבנה · רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף טבעי חזית לבנה 80 ס״מ · 2 מגירות",
+       "label": "גוף טבעי חזית לבנה · רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף טבעי חזית לבנה 100 ס״מ · 2 מגירות",
+       "label": "גוף טבעי חזית לבנה · רוחב 100 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף טבעי חזית לבנה 120 ס״מ · 2 מגירות",
+       "label": "גוף טבעי חזית לבנה · רוחב 120 · 2 מגירות",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית לבנה 60 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית לבנה · רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית לבנה 80 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית לבנה · רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית לבנה 100 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית לבנה · רוחב 100 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "גוף לבן חזית לבנה 120 ס״מ · 2 מגירות",
+       "label": "גוף לבן חזית לבנה · רוחב 120 · 2 מגירות",
        "price": "700",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית עץ טבעי · רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית עץ טבעי · רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית עץ טבעי · רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "579",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף טבעי חזית לבנה · רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף טבעי חזית לבנה · רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף טבעי חזית לבנה · רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "579",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית לבנה · רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית לבנה · רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גוף לבן חזית לבנה · רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "579",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -6323,43 +6354,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -6368,7 +6362,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -6503,7 +6497,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -6558,7 +6552,7 @@
     "jetpack_seo_html_title": "ארון טוסקנה תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "43",
-    "_bm_catalog_numbers": "{\"גוף לבן חזית עץ טבעי 60 ס״מ · 2 מגירות\": \"11219\", \"גוף לבן חזית עץ טבעי 80 ס״מ · 2 מגירות\": \"11225\", \"גוף לבן חזית עץ טבעי 100 ס״מ · 2 מגירות\": \"11231\", \"גוף לבן חזית עץ טבעי 120 ס״מ · 2 מגירות\": \"11237\", \"גוף טבעי חזית לבנה 60 ס״מ · 2 מגירות\": \"11221\", \"גוף טבעי חזית לבנה 80 ס״מ · 2 מגירות\": \"11227\", \"גוף טבעי חזית לבנה 100 ס״מ · 2 מגירות\": \"11233\", \"גוף טבעי חזית לבנה 120 ס״מ · 2 מגירות\": \"11239\", \"גוף לבן חזית לבנה 60 ס״מ · 2 מגירות\": \"11223\", \"גוף לבן חזית לבנה 80 ס״מ · 2 מגירות\": \"11229\", \"גוף לבן חזית לבנה 100 ס״מ · 2 מגירות\": \"11235\", \"גוף לבן חזית לבנה 120 ס״מ · 2 מגירות\": \"11241\"}"
+    "_bm_catalog_numbers": "{\"גוף לבן חזית עץ טבעי · רוחב 60 · 2 מגירות\": \"11219\", \"גוף לבן חזית עץ טבעי · רוחב 80 · 2 מגירות\": \"11225\", \"גוף לבן חזית עץ טבעי · רוחב 100 · 2 מגירות\": \"11231\", \"גוף לבן חזית עץ טבעי · רוחב 120 · 2 מגירות\": \"11237\", \"גוף טבעי חזית לבנה · רוחב 60 · 2 מגירות\": \"11221\", \"גוף טבעי חזית לבנה · רוחב 80 · 2 מגירות\": \"11227\", \"גוף טבעי חזית לבנה · רוחב 100 · 2 מגירות\": \"11233\", \"גוף טבעי חזית לבנה · רוחב 120 · 2 מגירות\": \"11239\", \"גוף לבן חזית לבנה · רוחב 60 · 2 מגירות\": \"11223\", \"גוף לבן חזית לבנה · רוחב 80 · 2 מגירות\": \"11229\", \"גוף לבן חזית לבנה · רוחב 100 · 2 מגירות\": \"11235\", \"גוף לבן חזית לבנה · רוחב 120 · 2 מגירות\": \"11241\"}"
    }
   },
   {
@@ -6643,21 +6637,21 @@
       {
        "label": "גוף לבן חזית עץ טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-11370258.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-55722888.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "גוף טבעי חזית לבנה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-62085728.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-63755427.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "גוף לבן חזית לבנה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-82933904.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-82171360.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -6893,7 +6887,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ארון שירות (אשרות) 120x40x32 אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -6914,85 +6908,113 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 מגירות",
+       "label": "רוחב 70 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מגירות",
+       "label": "רוחב 90 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 100 · 2 מג׳ ודלת",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות",
+       "label": "רוחב 120 · 2 מגירות",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 120 · 2 מג׳ ודלת",
        "price": "800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 4 מג׳ כיור כפול",
+       "label": "רוחב 120 · 4 מג׳ כיור כפול",
        "price": "1500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מג׳ + 2 דל׳",
+       "label": "רוחב 150 · 2 מג׳ + 2 דל׳",
        "price": "2800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג׳ כיור בודד",
+       "label": "רוחב 150 · 4 מג׳ כיור בודד",
        "price": "3100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג׳ כיור כפול",
+       "label": "רוחב 150 · 4 מג׳ כיור כפול",
        "price": "3400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "579",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג׳ ודלת",
+       "price": "779",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -7193,43 +7215,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -7238,7 +7223,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -7373,7 +7358,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -7428,7 +7413,7 @@
     "jetpack_seo_html_title": "ארון סטאר תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "44",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"002894\", \"70 ס״מ · 2 מגירות\": \"002447\", \"80 ס״מ · 2 מגירות\": \"002450\", \"90 ס״מ · 2 מגירות\": \"002456\", \"100 ס״מ · 2 מגירות\": \"002459\", \"100 ס״מ · 2 מג׳ ודלת\": \"007074\", \"120 ס״מ · 2 מגירות\": \"002465\", \"120 ס״מ · 2 מג׳ ודלת\": \"001572\", \"120 ס״מ · 4 מג׳ כיור כפול\": \"0001505\", \"150 ס״מ · 2 מג׳ + 2 דל׳\": \"001592\", \"150 ס״מ · 4 מג׳ כיור בודד\": \"001582\", \"150 ס״מ · 4 מג׳ כיור כפול\": \"001602\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"002894\", \"רוחב 70 · 2 מגירות\": \"002447\", \"רוחב 80 · 2 מגירות\": \"002450\", \"רוחב 90 · 2 מגירות\": \"002456\", \"רוחב 100 · 2 מגירות\": \"002459\", \"רוחב 100 · 2 מג׳ ודלת\": \"007074\", \"רוחב 120 · 2 מגירות\": \"002465\", \"רוחב 120 · 2 מג׳ ודלת\": \"001572\", \"רוחב 120 · 4 מג׳ כיור כפול\": \"0001505\", \"רוחב 150 · 2 מג׳ + 2 דל׳\": \"001592\", \"רוחב 150 · 4 מג׳ כיור בודד\": \"001582\", \"רוחב 150 · 4 מג׳ כיור כפול\": \"001602\"}"
    }
   },
   {
@@ -7482,7 +7467,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -7741,7 +7726,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ארון שרות: גובה 120 ס״מ, רוחב 40 ס״מ, עומק 32 ס״מ (120x40x32) אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -7762,78 +7747,106 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 מגירות",
+       "label": "רוחב 70 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מגירות",
+       "label": "רוחב 90 · 2 מגירות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 90 · 2 מג׳ ודלת",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג׳",
+       "label": "רוחב 100 · 2 מג׳",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 100 · 2 מג׳ ודלת",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מג׳ ודלת",
+       "label": "רוחב 120 · 2 מג׳ ודלת",
        "price": "800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 4 מג׳ כיור כפול",
+       "label": "רוחב 120 · 4 מג׳ כיור כפול",
        "price": "1500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מג׳ + 2 דל׳",
+       "label": "רוחב 150 · 2 מג׳ + 2 דל׳",
        "price": "2800",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג׳ כיור כפול",
+       "label": "רוחב 150 · 4 מג׳ כיור כפול",
        "price": "3400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג׳",
+       "price": "579",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג׳ ודלת",
+       "price": "779",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -8034,43 +8047,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -8079,7 +8055,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -8214,7 +8190,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -8269,7 +8245,7 @@
     "jetpack_seo_html_title": "ארון אופטימל תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "45",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"002549\", \"70 ס״מ · 2 מגירות\": \"001761\", \"80 ס״מ · 2 מגירות\": \"002553\", \"90 ס״מ · 2 מגירות\": \"001154\", \"90 ס״מ · 2 מג׳ ודלת\": \"0008019\", \"100 ס״מ · 2 מג׳\": \"002559\", \"100 ס״מ · 2 מג׳ ודלת\": \"002563\", \"120 ס״מ · 2 מג׳ ודלת\": \"004500\", \"120 ס״מ · 4 מג׳ כיור כפול\": \"002567\", \"150 ס״מ · 2 מג׳ + 2 דל׳\": \"002584\", \"150 ס״מ · 4 מג׳ כיור כפול\": \"002587\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"002549\", \"רוחב 70 · 2 מגירות\": \"001761\", \"רוחב 80 · 2 מגירות\": \"002553\", \"רוחב 90 · 2 מגירות\": \"001154\", \"רוחב 90 · 2 מג׳ ודלת\": \"0008019\", \"רוחב 100 · 2 מג׳\": \"002559\", \"רוחב 100 · 2 מג׳ ודלת\": \"002563\", \"רוחב 120 · 2 מג׳ ודלת\": \"004500\", \"רוחב 120 · 4 מג׳ כיור כפול\": \"002567\", \"רוחב 150 · 2 מג׳ + 2 דל׳\": \"002584\", \"רוחב 150 · 4 מג׳ כיור כפול\": \"002587\"}"
    }
   },
   {
@@ -8323,7 +8299,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -8581,7 +8557,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ארון שירות (אשרות) 120x40x32 אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -8602,50 +8578,71 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 דלתות",
+       "label": "רוחב 60 · 2 דלתות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 דלתות",
+       "label": "רוחב 70 · 2 דלתות",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 דלתות",
+       "label": "רוחב 80 · 2 דלתות",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 דלתות",
+       "label": "רוחב 90 · 2 דלתות",
        "price": "421",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 3 דלתות",
+       "label": "רוחב 100 · 3 דלתות",
        "price": "421",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 3 דלתות",
+       "label": "רוחב 120 · 3 דלתות",
        "price": "721",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 דל׳ כיור בודד",
+       "label": "רוחב 150 · 4 דל׳ כיור בודד",
        "price": "2821",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 דלתות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 דלתות",
+       "price": "469",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 3 דלתות",
+       "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -8811,43 +8808,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
@@ -8856,7 +8816,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -8911,7 +8871,7 @@
     "jetpack_seo_html_title": "ארון אופטימל דלתות תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "46",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 דלתות\": \"002571\", \"70 ס״מ · 2 דלתות\": \"001810\", \"80 ס״מ · 2 דלתות\": \"002574\", \"90 ס״מ · 2 דלתות\": \"001827\", \"100 ס״מ · 3 דלתות\": \"002577\", \"120 ס״מ · 3 דלתות\": \"002581\", \"150 ס״מ · 4 דל׳ כיור בודד\": \"006012\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 דלתות\": \"002571\", \"רוחב 70 · 2 דלתות\": \"001810\", \"רוחב 80 · 2 דלתות\": \"002574\", \"רוחב 90 · 2 דלתות\": \"001827\", \"רוחב 100 · 3 דלתות\": \"002577\", \"רוחב 120 · 3 דלתות\": \"002581\", \"רוחב 150 · 4 דל׳ כיור בודד\": \"006012\"}"
    }
   },
   {
@@ -8983,7 +8943,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -9004,64 +8964,92 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 מגירות",
+       "label": "רוחב 70 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מגירות",
+       "label": "רוחב 90 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג'",
+       "label": "רוחב 100 · 2 מג'",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג' ודלת",
+       "label": "רוחב 100 · 2 מג' ודלת",
        "price": "700",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מג' ודלת",
+       "label": "רוחב 120 · 2 מג' ודלת",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מג' + 2 דל'",
+       "label": "רוחב 150 · 2 מג' + 2 דל'",
        "price": "2600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 מג' כיור בודד",
+       "label": "רוחב 150 · 4 מג' כיור בודד",
        "price": "3000",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג'",
+       "price": "679",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג' ודלת",
+       "price": "979",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -9262,43 +9250,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -9307,7 +9258,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -9442,7 +9393,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -9497,7 +9448,7 @@
     "jetpack_seo_html_title": "ארון פריז עומד – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "47",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"003200\", \"70 ס״מ · 2 מגירות\": \"003300\", \"80 ס״מ · 2 מגירות\": \"003400\", \"90 ס״מ · 2 מגירות\": \"003500\", \"100 ס״מ · 2 מג'\": \"003600\", \"100 ס״מ · 2 מג' ודלת\": \"003610\", \"120 ס״מ · 2 מג' ודלת\": \"003700\", \"150 ס״מ · 2 מג' + 2 דל'\": \"003800\", \"150 ס״מ · 4 מג' כיור בודד\": \"003810\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"003200\", \"רוחב 70 · 2 מגירות\": \"003300\", \"רוחב 80 · 2 מגירות\": \"003400\", \"רוחב 90 · 2 מגירות\": \"003500\", \"רוחב 100 · 2 מג'\": \"003600\", \"רוחב 100 · 2 מג' ודלת\": \"003610\", \"רוחב 120 · 2 מג' ודלת\": \"003700\", \"רוחב 150 · 2 מג' + 2 דל'\": \"003800\", \"רוחב 150 · 4 מג' כיור בודד\": \"003810\"}"
    }
   },
   {
@@ -9556,7 +9507,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. 120x40x32 ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -9813,7 +9764,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -9834,36 +9785,57 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 דלתות",
+       "label": "רוחב 60 · 2 דלתות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 דלתות",
+       "label": "רוחב 80 · 2 דלתות",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 3 דלתות",
+       "label": "רוחב 100 · 3 דלתות",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 3 דלתות",
+       "label": "רוחב 120 · 3 דלתות",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 דלתות",
+       "label": "רוחב 150 · 4 דלתות",
        "price": "2600",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 דלתות",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 דלתות",
+       "price": "579",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 3 דלתות",
+       "price": "879",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -10064,43 +10036,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -10109,7 +10044,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -10244,7 +10179,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -10299,7 +10234,7 @@
     "jetpack_seo_html_title": "ארון פיג'י תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "48",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 דלתות\": \"12651\", \"80 ס״מ · 2 דלתות\": \"12652\", \"100 ס״מ · 3 דלתות\": \"12653\", \"120 ס״מ · 3 דלתות\": \"12654\", \"150 ס״מ · 4 דלתות\": \"12655\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 דלתות\": \"12651\", \"רוחב 80 · 2 דלתות\": \"12652\", \"רוחב 100 · 3 דלתות\": \"12653\", \"רוחב 120 · 3 דלתות\": \"12654\", \"רוחב 150 · 4 דלתות\": \"12655\"}"
    }
   },
   {
@@ -10372,7 +10307,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -10393,64 +10328,92 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 מגירות",
+       "label": "רוחב 60 · 2 מגירות",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 מגירות",
+       "label": "רוחב 70 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 מגירות",
+       "label": "רוחב 80 · 2 מגירות",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 מגירות",
+       "label": "רוחב 90 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מגירות",
+       "label": "רוחב 100 · 2 מגירות",
        "price": "400",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 מג' ודלת",
+       "label": "רוחב 100 · 2 מג' ודלת",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מג'",
+       "label": "רוחב 120 · 2 מג'",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מג' ודלת",
+       "label": "רוחב 120 · 2 מג' ודלת",
        "price": "1300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מג' + 2 דל'",
+       "label": "רוחב 150 · 2 מג' + 2 דל'",
        "price": "2900",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 מגירות",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 מגירות",
+       "price": "200",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מגירות",
+       "price": "400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מג' ודלת",
+       "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -10609,43 +10572,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -10654,7 +10580,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -10789,7 +10715,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -10844,7 +10770,7 @@
     "jetpack_seo_html_title": "ארון פרש תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "49",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 מגירות\": \"0007232\", \"70 ס״מ · 2 מגירות\": \"0002500\", \"80 ס״מ · 2 מגירות\": \"0007235\", \"90 ס״מ · 2 מגירות\": \"0002503\", \"100 ס״מ · 2 מגירות\": \"0002506\", \"100 ס״מ · 2 מג' ודלת\": \"0007238\", \"120 ס״מ · 2 מג'\": \"0002509\", \"120 ס״מ · 2 מג' ודלת\": \"0007241\", \"150 ס״מ · 2 מג' + 2 דל'\": \"0007244\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 מגירות\": \"0007232\", \"רוחב 70 · 2 מגירות\": \"0002500\", \"רוחב 80 · 2 מגירות\": \"0007235\", \"רוחב 90 · 2 מגירות\": \"0002503\", \"רוחב 100 · 2 מגירות\": \"0002506\", \"רוחב 100 · 2 מג' ודלת\": \"0007238\", \"רוחב 120 · 2 מג'\": \"0002509\", \"רוחב 120 · 2 מג' ודלת\": \"0007241\", \"רוחב 150 · 2 מג' + 2 דל'\": \"0007244\"}"
    }
   },
   {
@@ -10903,7 +10829,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. 120x40x32 ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -11161,7 +11087,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -11182,50 +11108,71 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 60 · 2 דלתות + מגירה",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "70 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 70 · 2 דלתות + מגירה",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 80 · 2 דלתות + מגירה",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "90 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 90 · 2 דלתות + מגירה",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 100 · 2 דלתות + מגירה",
        "price": "500",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 דלתות + מגירה",
+       "label": "רוחב 120 · 2 דלתות + מגירה",
        "price": "900",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 4 דלתות + 2 מגירות",
+       "label": "רוחב 150 · 4 דלתות + 2 מגירות",
        "price": "2400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · 2 דלתות + מגירה",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · 2 דלתות + מגירה",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 דלתות + מגירה",
+       "price": "779",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -11433,43 +11380,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -11478,7 +11388,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -11613,7 +11523,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -11668,7 +11578,7 @@
     "jetpack_seo_html_title": "ארון טולוז עומד – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "50",
-    "_bm_catalog_numbers": "{\"60 ס״מ · 2 דלתות + מגירה\": \"0007162\", \"70 ס״מ · 2 דלתות + מגירה\": \"0002369\", \"80 ס״מ · 2 דלתות + מגירה\": \"0007165\", \"90 ס״מ · 2 דלתות + מגירה\": \"0008003\", \"100 ס״מ · 2 דלתות + מגירה\": \"0007168\", \"120 ס״מ · 2 דלתות + מגירה\": \"0007171\", \"150 ס״מ · 4 דלתות + 2 מגירות\": \"0007174\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · 2 דלתות + מגירה\": \"0007162\", \"רוחב 70 · 2 דלתות + מגירה\": \"0002369\", \"רוחב 80 · 2 דלתות + מגירה\": \"0007165\", \"רוחב 90 · 2 דלתות + מגירה\": \"0008003\", \"רוחב 100 · 2 דלתות + מגירה\": \"0007168\", \"רוחב 120 · 2 דלתות + מגירה\": \"0007171\", \"רוחב 150 · 4 דלתות + 2 מגירות\": \"0007174\"}"
    }
   },
   {
@@ -11727,7 +11637,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. 120x40x32 ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -11982,7 +11892,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. משטח בוצ׳ר 4 ס״מ אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -12003,36 +11913,43 @@
      "default": "",
      "options": [
       {
-       "label": "100 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
+       "label": "רוחב 100 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
+       "label": "רוחב 120 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ",
+       "label": "רוחב 120 · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
+       "label": "רוחב 150 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
        "price": "1200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ",
+       "label": "רוחב 150 · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ",
        "price": "1400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ",
+       "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -12198,43 +12115,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 עם כיור אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -12243,7 +12123,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -12378,7 +12258,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -12433,7 +12313,7 @@
     "jetpack_seo_html_title": "ארון פורטוגל עומד – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "51",
-    "_bm_catalog_numbers": "{\"100 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"10365\", \"120 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"13969\", \"120 ס״מ · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ\": \"10370\", \"150 ס״מ · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"11026\", \"150 ס״מ · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ\": \"10375\"}"
+    "_bm_catalog_numbers": "{\"רוחב 100 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"10365\", \"רוחב 120 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"13969\", \"רוחב 120 · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ\": \"10370\", \"רוחב 150 · 2 מגירות ודלת + בוצ׳ר 4 ס״מ\": \"11026\", \"רוחב 150 · 2 מגירות + 2 דלתות + בוצ׳ר 4 ס״מ\": \"10375\"}"
    }
   },
   {
@@ -12492,7 +12372,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. 120x40x30 ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -12750,7 +12630,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -12771,43 +12651,64 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ · מגירת סל כביסה",
+       "label": "רוחב 60 · מגירת סל כביסה",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ · מגירת סל כביסה",
+       "label": "רוחב 80 · מגירת סל כביסה",
        "price": "300",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ · מגירת סל כביסה + מגירה ודלת",
+       "label": "רוחב 100 · מגירת סל כביסה + מגירה ודלת",
        "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
+       "label": "רוחב 120 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
        "price": "1000",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "150 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
+       "label": "רוחב 150 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
        "price": "2100",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "200 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
+       "label": "רוחב 200 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות",
        "price": "4100",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 60 · עומק 36/40 · מגירת סל כביסה",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 80 · עומק 36/40 · מגירת סל כביסה",
+       "price": "300",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "רוחב 100 · עומק 36/40 · מגירת סל כביסה + מגירה ודלת",
+       "price": "600",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -12966,43 +12867,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 3,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "מתנה",
      "title_format": "label",
      "description_enable": 1,
@@ -13011,7 +12875,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "images",
-     "position": 4,
+     "position": 3,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -13146,7 +13010,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 5,
+     "position": 4,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -13201,7 +13065,7 @@
     "jetpack_seo_html_title": "ארון מיקונוס עומד – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "52",
-    "_bm_catalog_numbers": "{\"60 ס״מ · מגירת סל כביסה\": \"12646\", \"80 ס״מ · מגירת סל כביסה\": \"12647\", \"100 ס״מ · מגירת סל כביסה + מגירה ודלת\": \"12648\", \"120 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12649\", \"150 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12650\", \"200 ס״מ · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12802\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60 · מגירת סל כביסה\": \"12646\", \"רוחב 80 · מגירת סל כביסה\": \"12647\", \"רוחב 100 · מגירת סל כביסה + מגירה ודלת\": \"12648\", \"רוחב 120 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12649\", \"רוחב 150 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12650\", \"רוחב 200 · מגירת סל כביסה + 2 מגירות ו- 2 דלתות\": \"12802\"}"
    }
   },
   {
@@ -13271,7 +13135,7 @@
    ],
    "addons": [
     {
-     "name": "מידות",
+     "name": "רוחב",
      "title_format": "label",
      "description_enable": 1,
      "description": "בחרו מידה. בוצ׳ר 4 ס״מ/קוריאן; ניתן לשנות מידות ברוחב ובעומק אפשר להזמין גם במידה מיוחדת – בפנייה לצ׳אט. ייתכנו סטיות של עד כ-5% במידות ובגוון.",
@@ -13292,28 +13156,28 @@
      "default": "",
      "options": [
       {
-       "label": "60 ס״מ",
+       "label": "רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "80 ס״מ",
+       "label": "רוחב 80",
        "price": "201",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "100 ס״מ",
+       "label": "רוחב 100",
        "price": "301",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "120 ס״מ",
+       "label": "רוחב 120",
        "price": "701",
        "image": "",
        "price_type": "flat_fee",
@@ -13708,7 +13572,7 @@
     "jetpack_seo_html_title": "ארון מור תלוי – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "53",
-    "_bm_catalog_numbers": "{\"60 ס״מ\": \"10711\", \"80 ס״מ\": \"11000\", \"100 ס״מ\": \"10712\", \"120 ס״מ\": \"10713\"}"
+    "_bm_catalog_numbers": "{\"רוחב 60\": \"10711\", \"רוחב 80\": \"11000\", \"רוחב 100\": \"10712\", \"רוחב 120\": \"10713\"}"
    }
   },
   {
@@ -13806,35 +13670,35 @@
       {
        "label": "חזית חלקה",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-94544346.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-18917443.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית פלאט",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-89616276.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-62496288.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית מסגרת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99695533.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-48160284.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית פסים",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-18249875.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-74802858.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית אינטגרלית",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-9642848.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-87255926.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14242,14 +14106,14 @@
       {
        "label": "חזית תריס",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-68774328.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-27392403.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "חזית מסגרת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-99695533.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-48160284.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14654,35 +14518,35 @@
       {
        "label": "לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-81411631.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-74897276.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שחור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-10481237.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-9891544.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שמנת",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-92798503.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-86372185.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אפור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-91446059.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-67670364.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -14846,21 +14710,21 @@
       {
        "label": "לבן מבריק",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14087471.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-13103375.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שמנת מבריק",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-41715220.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-5865521.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -15020,21 +14884,21 @@
       {
        "label": "לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-81411631.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-74897276.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שחור",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-10481237.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-9891544.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90694076.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-14380423.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -15197,113 +15061,197 @@
      "default": "",
      "options": [
       {
-       "label": "פורמייקה טבעי 60 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 80 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 100 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 120 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 60 ס״מ",
+       "label": "פורמייקה בטון · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 80 ס״מ",
+       "label": "פורמייקה בטון · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 100 ס״מ",
+       "label": "פורמייקה בטון · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 120 ס״מ",
+       "label": "פורמייקה בטון · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 60 ס״מ",
+       "label": "פורמייקה לבן · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 80 ס״מ",
+       "label": "פורמייקה לבן · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 100 ס״מ",
+       "label": "פורמייקה לבן · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 120 ס״מ",
+       "label": "פורמייקה לבן · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 60 ס״מ",
+       "label": "אפוקסי לבן · רוחב 60",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 80 ס״מ",
+       "label": "אפוקסי לבן · רוחב 80",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 100 ס״מ",
+       "label": "אפוקסי לבן · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 120 ס״מ",
+       "label": "אפוקסי לבן · רוחב 120",
        "price": "791",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 80 · עומק 36/40",
+       "price": "469",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 100 · עומק 36/40",
+       "price": "670",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 80 · עומק 36/40",
+       "price": "469",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 100 · עומק 36/40",
+       "price": "670",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 80 · עומק 36/40",
+       "price": "469",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 100 · עומק 36/40",
+       "price": "670",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 60 · עומק 36/40",
+       "price": "479",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 80 · עומק 36/40",
+       "price": "670",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 100 · עומק 36/40",
+       "price": "670",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -15362,43 +15310,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 2,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
@@ -15407,7 +15318,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 3,
+     "position": 2,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -15462,7 +15373,7 @@
     "jetpack_seo_html_title": "ארון קאלו עומד – דלתות – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "56",
-    "_bm_catalog_numbers": "{\"פורמייקה טבעי 60 ס״מ\": \"11907\", \"פורמייקה טבעי 80 ס״מ\": \"11911\", \"פורמייקה טבעי 100 ס״מ\": \"11915\", \"פורמייקה טבעי 120 ס״מ\": \"11919\", \"פורמייקה בטון 60 ס״מ\": \"11908\", \"פורמייקה בטון 80 ס״מ\": \"11912\", \"פורמייקה בטון 100 ס״מ\": \"11916\", \"פורמייקה בטון 120 ס״מ\": \"11920\", \"פורמייקה לבן 60 ס״מ\": \"11909\", \"פורמייקה לבן 80 ס״מ\": \"11913\", \"פורמייקה לבן 100 ס״מ\": \"11917\", \"פורמייקה לבן 120 ס״מ\": \"11921\", \"אפוקסי לבן 60 ס״מ\": \"11910\", \"אפוקסי לבן 80 ס״מ\": \"11914\", \"אפוקסי לבן 100 ס״מ\": \"11918\", \"אפוקסי לבן 120 ס״מ\": \"11922\"}"
+    "_bm_catalog_numbers": "{\"פורמייקה טבעי · רוחב 60\": \"11907\", \"פורמייקה טבעי · רוחב 80\": \"11911\", \"פורמייקה טבעי · רוחב 100\": \"11915\", \"פורמייקה טבעי · רוחב 120\": \"11919\", \"פורמייקה בטון · רוחב 60\": \"11908\", \"פורמייקה בטון · רוחב 80\": \"11912\", \"פורמייקה בטון · רוחב 100\": \"11916\", \"פורמייקה בטון · רוחב 120\": \"11920\", \"פורמייקה לבן · רוחב 60\": \"11909\", \"פורמייקה לבן · רוחב 80\": \"11913\", \"פורמייקה לבן · רוחב 100\": \"11917\", \"פורמייקה לבן · רוחב 120\": \"11921\", \"אפוקסי לבן · רוחב 60\": \"11910\", \"אפוקסי לבן · רוחב 80\": \"11914\", \"אפוקסי לבן · רוחב 100\": \"11918\", \"אפוקסי לבן · רוחב 120\": \"11922\"}"
    }
   },
   {
@@ -15547,28 +15458,28 @@
       {
        "label": "פורמייקה טבעי",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-72235642.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-72902804.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "פורמייקה בטון",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-64991529.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-51903486.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "פורמייקה לבן",
        "price": "",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-52524302.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-74014556.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "אפוקסי לבן",
        "price": "140",
-       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-90896064.jpg",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/tb-tone-36630058.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -15717,112 +15628,112 @@
      "default": "",
      "options": [
       {
-       "label": "פורמייקה טבעי 60 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 80 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 100 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 120 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 60 ס״מ",
+       "label": "פורמייקה בטון · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 80 ס״מ",
+       "label": "פורמייקה בטון · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 100 ס״מ",
+       "label": "פורמייקה בטון · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 120 ס״מ",
+       "label": "פורמייקה בטון · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 60 ס״מ",
+       "label": "פורמייקה לבן · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 80 ס״מ",
+       "label": "פורמייקה לבן · רוחב 80",
        "price": "190",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 100 ס״מ",
+       "label": "פורמייקה לבן · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 120 ס״מ",
+       "label": "פורמייקה לבן · רוחב 120",
        "price": "591",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 60 ס״מ",
+       "label": "אפוקסי לבן · רוחב 60",
        "price": "200",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 80 ס״מ",
+       "label": "אפוקסי לבן · רוחב 80",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 100 ס״מ",
+       "label": "אפוקסי לבן · רוחב 100",
        "price": "391",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 120 ס״מ",
+       "label": "אפוקסי לבן · רוחב 120",
        "price": "791",
        "image": "",
        "price_type": "flat_fee",
@@ -15945,7 +15856,7 @@
     "jetpack_seo_html_title": "ארון קאלו תלוי – דלתות – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "57",
-    "_bm_catalog_numbers": "{\"פורמייקה טבעי 60 ס״מ\": \"11878\", \"פורמייקה טבעי 80 ס״מ\": \"11884\", \"פורמייקה טבעי 100 ס״מ\": \"11887\", \"פורמייקה טבעי 120 ס״מ\": \"11889\", \"פורמייקה בטון 60 ס״מ\": \"11879\", \"פורמייקה בטון 80 ס״מ\": \"11885\", \"פורמייקה בטון 100 ס״מ\": \"11888\", \"פורמייקה בטון 120 ס״מ\": \"11890\", \"פורמייקה לבן 60 ס״מ\": \"11880\", \"פורמייקה לבן 80 ס״מ\": \"11886\", \"פורמייקה לבן 100 ס״מ\": \"12000\", \"פורמייקה לבן 120 ס״מ\": \"11891\", \"אפוקסי לבן 60 ס״מ\": \"11274\", \"אפוקסי לבן 80 ס״מ\": \"11276\", \"אפוקסי לבן 100 ס״מ\": \"11278\", \"אפוקסי לבן 120 ס״מ\": \"11279\"}"
+    "_bm_catalog_numbers": "{\"פורמייקה טבעי · רוחב 60\": \"11878\", \"פורמייקה טבעי · רוחב 80\": \"11884\", \"פורמייקה טבעי · רוחב 100\": \"11887\", \"פורמייקה טבעי · רוחב 120\": \"11889\", \"פורמייקה בטון · רוחב 60\": \"11879\", \"פורמייקה בטון · רוחב 80\": \"11885\", \"פורמייקה בטון · רוחב 100\": \"11888\", \"פורמייקה בטון · רוחב 120\": \"11890\", \"פורמייקה לבן · רוחב 60\": \"11880\", \"פורמייקה לבן · רוחב 80\": \"11886\", \"פורמייקה לבן · רוחב 100\": \"12000\", \"פורמייקה לבן · רוחב 120\": \"11891\", \"אפוקסי לבן · רוחב 60\": \"11274\", \"אפוקסי לבן · רוחב 80\": \"11276\", \"אפוקסי לבן · רוחב 100\": \"11278\", \"אפוקסי לבן · רוחב 120\": \"11279\"}"
    }
   },
   {
@@ -16038,113 +15949,197 @@
      "default": "",
      "options": [
       {
-       "label": "פורמייקה טבעי 60 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה טבעי · רוחב 60 · 2 מגירות + דלת",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 80 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה טבעי · רוחב 80 · 2 מגירות + דלת",
        "price": "70",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 100 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה טבעי · רוחב 100 · 2 מגירות + 2 דלתות",
        "price": "361",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 120 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה טבעי · רוחב 120 · 2 מגירות + 2 דלתות",
        "price": "561",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 60 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה בטון · רוחב 60 · 2 מגירות + דלת",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 80 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה בטון · רוחב 80 · 2 מגירות + דלת",
        "price": "70",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 100 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה בטון · רוחב 100 · 2 מגירות + 2 דלתות",
        "price": "361",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 120 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה בטון · רוחב 120 · 2 מגירות + 2 דלתות",
        "price": "561",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 60 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה לבן · רוחב 60 · 2 מגירות + דלת",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 80 ס״מ · 2 מגירות + דלת",
+       "label": "פורמייקה לבן · רוחב 80 · 2 מגירות + דלת",
        "price": "70",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 100 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה לבן · רוחב 100 · 2 מגירות + 2 דלתות",
        "price": "361",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 120 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "פורמייקה לבן · רוחב 120 · 2 מגירות + 2 דלתות",
        "price": "561",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 60 ס״מ · 2 מגירות + דלת",
+       "label": "אפוקסי לבן · רוחב 60 · 2 מגירות + דלת",
        "price": "30",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 80 ס״מ · 2 מגירות + דלת",
+       "label": "אפוקסי לבן · רוחב 80 · 2 מגירות + דלת",
        "price": "161",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 100 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "אפוקסי לבן · רוחב 100 · 2 מגירות + 2 דלתות",
        "price": "361",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 120 ס״מ · 2 מגירות + 2 דלתות",
+       "label": "אפוקסי לבן · רוחב 120 · 2 מגירות + 2 דלתות",
        "price": "661",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 60 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 80 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 100 · עומק 36/40 · 2 מגירות + 2 דלתות",
+       "price": "640",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 60 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 80 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 100 · עומק 36/40 · 2 מגירות + 2 דלתות",
+       "price": "640",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 60 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 80 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 100 · עומק 36/40 · 2 מגירות + 2 דלתות",
+       "price": "640",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 60 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "309",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 80 · עומק 36/40 · 2 מגירות + דלת",
+       "price": "440",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 100 · עומק 36/40 · 2 מגירות + 2 דלתות",
+       "price": "640",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -16203,43 +16198,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 2,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
@@ -16248,7 +16206,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 3,
+     "position": 2,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -16303,7 +16261,7 @@
     "jetpack_seo_html_title": "ארון קאלו עומד – מגירות ודלתות – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "58",
-    "_bm_catalog_numbers": "{\"פורמייקה טבעי 60 ס״מ · 2 מגירות + דלת\": \"11894\", \"פורמייקה טבעי 80 ס״מ · 2 מגירות + דלת\": \"11898\", \"פורמייקה טבעי 100 ס״מ · 2 מגירות + 2 דלתות\": \"11899\", \"פורמייקה טבעי 120 ס״מ · 2 מגירות + 2 דלתות\": \"11903\", \"פורמייקה בטון 60 ס״מ · 2 מגירות + דלת\": \"11895\", \"פורמייקה בטון 80 ס״מ · 2 מגירות + דלת\": \"11998\", \"פורמייקה בטון 100 ס״מ · 2 מגירות + 2 דלתות\": \"11900\", \"פורמייקה בטון 120 ס״מ · 2 מגירות + 2 דלתות\": \"11904\", \"פורמייקה לבן 60 ס״מ · 2 מגירות + דלת\": \"11896\", \"פורמייקה לבן 80 ס״מ · 2 מגירות + דלת\": \"11999\", \"פורמייקה לבן 100 ס״מ · 2 מגירות + 2 דלתות\": \"11901\", \"פורמייקה לבן 120 ס״מ · 2 מגירות + 2 דלתות\": \"11905\", \"אפוקסי לבן 60 ס״מ · 2 מגירות + דלת\": \"11897\", \"אפוקסי לבן 80 ס״מ · 2 מגירות + דלת\": \"12001\", \"אפוקסי לבן 100 ס״מ · 2 מגירות + 2 דלתות\": \"11902\", \"אפוקסי לבן 120 ס״מ · 2 מגירות + 2 דלתות\": \"11906\"}"
+    "_bm_catalog_numbers": "{\"פורמייקה טבעי · רוחב 60 · 2 מגירות + דלת\": \"11894\", \"פורמייקה טבעי · רוחב 80 · 2 מגירות + דלת\": \"11898\", \"פורמייקה טבעי · רוחב 100 · 2 מגירות + 2 דלתות\": \"11899\", \"פורמייקה טבעי · רוחב 120 · 2 מגירות + 2 דלתות\": \"11903\", \"פורמייקה בטון · רוחב 60 · 2 מגירות + דלת\": \"11895\", \"פורמייקה בטון · רוחב 80 · 2 מגירות + דלת\": \"11998\", \"פורמייקה בטון · רוחב 100 · 2 מגירות + 2 דלתות\": \"11900\", \"פורמייקה בטון · רוחב 120 · 2 מגירות + 2 דלתות\": \"11904\", \"פורמייקה לבן · רוחב 60 · 2 מגירות + דלת\": \"11896\", \"פורמייקה לבן · רוחב 80 · 2 מגירות + דלת\": \"11999\", \"פורמייקה לבן · רוחב 100 · 2 מגירות + 2 דלתות\": \"11901\", \"פורמייקה לבן · רוחב 120 · 2 מגירות + 2 דלתות\": \"11905\", \"אפוקסי לבן · רוחב 60 · 2 מגירות + דלת\": \"11897\", \"אפוקסי לבן · רוחב 80 · 2 מגירות + דלת\": \"12001\", \"אפוקסי לבן · רוחב 100 · 2 מגירות + 2 דלתות\": \"11902\", \"אפוקסי לבן · רוחב 120 · 2 מגירות + 2 דלתות\": \"11906\"}"
    }
   },
   {
@@ -16398,141 +16356,225 @@
      "default": "",
      "options": [
       {
-       "label": "פורמייקה טבעי 60 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 70 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 70",
        "price": "181",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 80 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 80",
        "price": "181",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 90 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 90",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 100 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 100",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה טבעי 120 ס״מ",
+       "label": "פורמייקה טבעי · רוחב 120",
        "price": "781",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 60 ס״מ",
+       "label": "פורמייקה בטון · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 80 ס״מ",
+       "label": "פורמייקה בטון · רוחב 80",
        "price": "181",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 100 ס״מ",
+       "label": "פורמייקה בטון · רוחב 100",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה בטון 120 ס״מ",
+       "label": "פורמייקה בטון · רוחב 120",
        "price": "781",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 60 ס״מ",
+       "label": "פורמייקה לבן · רוחב 60",
        "price": "",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 80 ס״מ",
+       "label": "פורמייקה לבן · רוחב 80",
        "price": "181",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 100 ס״מ",
+       "label": "פורמייקה לבן · רוחב 100",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "פורמייקה לבן 120 ס״מ",
+       "label": "פורמייקה לבן · רוחב 120",
        "price": "781",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 60 ס״מ",
+       "label": "אפוקסי לבן · רוחב 60",
        "price": "50",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 70 ס״מ",
+       "label": "אפוקסי לבן · רוחב 70",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 80 ס״מ",
+       "label": "אפוקסי לבן · רוחב 80",
        "price": "281",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 90 ס״מ",
+       "label": "אפוקסי לבן · רוחב 90",
        "price": "481",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 100 ס״מ",
+       "label": "אפוקסי לבן · רוחב 100",
        "price": "481",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "אפוקסי לבן 120 ס״מ",
+       "label": "אפוקסי לבן · רוחב 120",
        "price": "881",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 80 · עומק 36/40",
+       "price": "460",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה טבעי · רוחב 100 · עומק 36/40",
+       "price": "560",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 80 · עומק 36/40",
+       "price": "460",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה בטון · רוחב 100 · עומק 36/40",
+       "price": "560",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 60 · עומק 36/40",
+       "price": "279",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 80 · עומק 36/40",
+       "price": "460",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פורמייקה לבן · רוחב 100 · עומק 36/40",
+       "price": "560",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 60 · עומק 36/40",
+       "price": "329",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 80 · עומק 36/40",
+       "price": "560",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "אפוקסי לבן · רוחב 100 · עומק 36/40",
+       "price": "760",
        "image": "",
        "price_type": "flat_fee",
        "visibility": 1
@@ -16591,43 +16633,6 @@
      ]
     },
     {
-     "name": "תוספות",
-     "title_format": "label",
-     "description_enable": 1,
-     "description": "תוספות אופציונליות לארון.",
-     "placeholder_enable": 0,
-     "placeholder": "",
-     "type": "multiple_choice",
-     "display": "select",
-     "position": 2,
-     "required": 1,
-     "restrictions": 0,
-     "restrictions_type": "any_text",
-     "adjust_price": 0,
-     "price_type": "flat_fee",
-     "price": "",
-     "id": "tb7",
-     "min": 0,
-     "max": 0,
-     "default": "",
-     "options": [
-      {
-       "label": "ללא",
-       "price": "",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      },
-      {
-       "label": "ארון בעומק 36/40 אינטגרלי קיים (60, 80, 100 ס״מ)",
-       "price": "279",
-       "image": "",
-       "price_type": "flat_fee",
-       "visibility": 1
-      }
-     ]
-    },
-    {
      "name": "הובלה והתקנה",
      "title_format": "label",
      "description_enable": 1,
@@ -16636,7 +16641,7 @@
      "placeholder": "",
      "type": "multiple_choice",
      "display": "select",
-     "position": 3,
+     "position": 2,
      "required": 1,
      "restrictions": 0,
      "restrictions_type": "any_text",
@@ -16691,7 +16696,7 @@
     "jetpack_seo_html_title": "ארון קאלו תלוי – מגירות – טופ בט | מחיר, מידות וצבעים | BathMall",
     "_bm_supplier": "topbath",
     "_bm_catalog_page": "59",
-    "_bm_catalog_numbers": "{\"פורמייקה טבעי 60 ס״מ\": \"11286\", \"פורמייקה טבעי 70 ס״מ\": \"11287\", \"פורמייקה טבעי 80 ס״מ\": \"11290\", \"פורמייקה טבעי 90 ס״מ\": \"11291\", \"פורמייקה טבעי 100 ס״מ\": \"11292\", \"פורמייקה טבעי 120 ס״מ\": \"11297\", \"פורמייקה בטון 60 ס״מ\": \"11869\", \"פורמייקה בטון 80 ס״מ\": \"11873\", \"פורמייקה בטון 100 ס״מ\": \"11997\", \"פורמייקה בטון 120 ס״מ\": \"11876\", \"פורמייקה לבן 60 ס״מ\": \"11870\", \"פורמייקה לבן 80 ס״מ\": \"11874\", \"פורמייקה לבן 100 ס״מ\": \"11875\", \"פורמייקה לבן 120 ס״מ\": \"11877\", \"אפוקסי לבן 60 ס״מ\": \"11268\", \"אפוקסי לבן 70 ס״מ\": \"11269\", \"אפוקסי לבן 80 ס״מ\": \"11270\", \"אפוקסי לבן 90 ס״מ\": \"11271\", \"אפוקסי לבן 100 ס״מ\": \"11272\", \"אפוקסי לבן 120 ס״מ\": \"11273\"}"
+    "_bm_catalog_numbers": "{\"פורמייקה טבעי · רוחב 60\": \"11286\", \"פורמייקה טבעי · רוחב 70\": \"11287\", \"פורמייקה טבעי · רוחב 80\": \"11290\", \"פורמייקה טבעי · רוחב 90\": \"11291\", \"פורמייקה טבעי · רוחב 100\": \"11292\", \"פורמייקה טבעי · רוחב 120\": \"11297\", \"פורמייקה בטון · רוחב 60\": \"11869\", \"פורמייקה בטון · רוחב 80\": \"11873\", \"פורמייקה בטון · רוחב 100\": \"11997\", \"פורמייקה בטון · רוחב 120\": \"11876\", \"פורמייקה לבן · רוחב 60\": \"11870\", \"פורמייקה לבן · רוחב 80\": \"11874\", \"פורמייקה לבן · רוחב 100\": \"11875\", \"פורמייקה לבן · רוחב 120\": \"11877\", \"אפוקסי לבן · רוחב 60\": \"11268\", \"אפוקסי לבן · רוחב 70\": \"11269\", \"אפוקסי לבן · רוחב 80\": \"11270\", \"אפוקסי לבן · רוחב 90\": \"11271\", \"אפוקסי לבן · רוחב 100\": \"11272\", \"אפוקסי לבן · רוחב 120\": \"11273\"}"
    }
   }
  ]
