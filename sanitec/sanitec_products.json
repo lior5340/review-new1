@@ -330,7 +330,7 @@
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
-     "display": "select",
+     "display": "images",
      "position": 4,
      "required": 1,
      "restrictions": 0,
@@ -346,21 +346,21 @@
       {
        "label": "כיור אינטגרלי סקיני חרס לבן (כלול במחיר)",
        "price": "",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-isink-skinny.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שדרוג: כיור אינטגרלי לואי או זכוכית",
        "price": "349",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-isink-louis.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "שדרוג: כיור אינטגרלי קוריאן לבן מט (לא זמין במידה 62)",
        "price": "1999",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-isink-corian.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
@@ -374,7 +374,7 @@
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
-     "display": "select",
+     "display": "images",
      "position": 5,
      "required": 1,
      "restrictions": 0,
@@ -397,168 +397,189 @@
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 60 ס״מ",
        "price": "149",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 70 ס״מ",
        "price": "189",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 80 ס״מ",
        "price": "189",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 90 ס״מ",
        "price": "219",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 100 ס״מ",
        "price": "219",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 409 מרובעת מרחפת · רוחב 120 ס״מ",
        "price": "289",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-409.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 60 ס״מ",
        "price": "139",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 70 ס״מ",
        "price": "169",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 80 ס״מ",
        "price": "169",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 90 ס״מ",
        "price": "199",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 100 ס״מ",
        "price": "199",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 120 ס״מ",
        "price": "239",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-305.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 60 ס״מ",
        "price": "99",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 70 ס״מ",
        "price": "129",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 80 ס״מ",
        "price": "129",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 90 ס״מ",
        "price": "149",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 100 ס״מ",
        "price": "149",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 120 ס״מ",
        "price": "189",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-109.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 60 ס״מ",
+       "label": "מראה 404 עגולה, מסגרת שחור מט · קוטר 60 ס״מ",
        "price": "289",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-black.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 80 ס״מ",
+       "label": "מראה 404 עגולה, מסגרת שחור מט · קוטר 80 ס״מ",
        "price": "369",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-black.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
-       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 100 ס״מ",
+       "label": "מראה 404 עגולה, מסגרת שחור מט · קוטר 100 ס״מ",
        "price": "519",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-black.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת זהב · קוטר 60 ס״מ",
+       "price": "289",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-gold.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת זהב · קוטר 80 ס״מ",
+       "price": "369",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-gold.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת זהב · קוטר 100 ס״מ",
+       "price": "519",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-404-gold.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 509 עגולה מרחפת · קוטר 60 ס״מ",
        "price": "229",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-509.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 509 עגולה מרחפת · קוטר 80 ס״מ",
        "price": "349",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-509.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
       {
        "label": "מראה 509 עגולה מרחפת · קוטר 100 ס״מ",
        "price": "429",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-mirror-509.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       },
@@ -635,7 +656,7 @@
      "placeholder_enable": 0,
      "placeholder": "",
      "type": "multiple_choice",
-     "display": "select",
+     "display": "images",
      "position": 6,
      "required": 1,
      "restrictions": 0,
@@ -658,7 +679,7 @@
       {
        "label": "ארון שירות 2001 · גובה 140 / רוחב 35 / עומק 30",
        "price": "1469",
-       "image": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-service-2001.jpg",
        "price_type": "flat_fee",
        "visibility": 1
       }
