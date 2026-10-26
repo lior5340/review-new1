@@ -1,0 +1,720 @@
+{
+ "version": "sn-t1",
+ "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-logo.png",
+ "categories": [
+  {
+   "slug": "sanitec-bathroom-cabinets",
+   "name": "ארונות אמבטיה סניטק",
+   "parent": "bathroom-cabinets",
+   "description": "ארונות אמבטיה של סניטק – יצרנית ויבואנית ישראלית מאז 1994. עשרות סדרות, גוונים ומידות, עם התקנה ע״י מתקין סניטק."
+  },
+  {
+   "slug": "sanitec-service-cabinets",
+   "name": "ארונות שירות סניטק",
+   "parent": "sanitec-bathroom-cabinets",
+   "description": "ארונות שירות משלימים של סניטק."
+  }
+ ],
+ "products": [
+  {
+   "sku": "SN-SEBASTIAN",
+   "name": "ארון אמבטיה סבסטיאן Sebastian – סניטק",
+   "slug": "sanitec-sebastian",
+   "status": "publish",
+   "regular_price": "1790",
+   "short_description": "<p>ארון אמבטיה סבסטיאן של סניטק – ארון צבוע אפוקסי. רוחב 62–122 ס״מ, עומק 47 ס״מ. 9 גוונים לבחירה, ידיות בשלושה גוונים.</p>",
+   "description": "<h2>ארון אמבטיה סבסטיאן (Sebastian) – סניטק</h2>\n<p>בצילום ארון סבסטיאן 82×47 ס״מ תכלת משי, בסיס ארון לבן משי, כיור אינטגרלי לואי, ידיות מעוצבות ברונזה עתיק, ברז SH0705 ברונזה, מראה 404 מסגרת זהב.</p>\n<h3>מה כלול במחיר</h3><ul><li>כיור אינטגרלי סקיני חרס לבן</li><li>ללא ברז וללא מראה (ניתן להוסיף מראה)</li></ul>\n<h3>חומרים ופרזול</h3><ul><li>ארון צבוע אפוקסי. בסיס רגלי ארון מעץ, גוף סנדוויץ׳, חזית MDF ירוק לחדרים רטובים.</li><li>מסילות SOFT CLOSING וידיות מעוצבות.</li><li>מראות: סוג קריסטל בלגי.</li><li>ידיות לבחירה: שחור מט, ניקל מוברש, ברונזה עתיק</li></ul>\n<h3>מידות</h3><ul><li>רוחב: 62, 72, 82, 92, 102, 122 ס״מ</li><li>עומק: 47 ס״מ</li><li>עומק 47 ס״מ; בשרטוט: גובה גוף 50 (2 מגירות 25+25), רגליים 35</li><li>מידות 72/82 ו-92/102 באותו מחיר</li><li>ייתכנו סטיות קלות במידות ובגוון</li></ul>\n<h3>גוונים וזמני אספקה</h3><ul><li>גוף ארון: לבן משי (4 ימי עסקים), תכלת משי (4 ימי עסקים), פיסטוק משי (4 ימי עסקים), פרל משי (21 ימי עסקים · ייצור מיוחד), סטון משי (21 ימי עסקים · ייצור מיוחד), גריי משי (21 ימי עסקים · ייצור מיוחד), חרדל משי (21 ימי עסקים · ייצור מיוחד), שחור משי (21 ימי עסקים · ייצור מיוחד)</li><li>בסיס ארון: לבן משי (21 ימי עסקים · ייצור מיוחד), עץ טבעי מבוקע (4 ימי עסקים)</li></ul>\n<p><strong>חשוב לדעת:</strong> מידות וגוונים המסומנים \"ייצור מיוחד\" מיוצרים במיוחד עבורכם (כ-21 ימי עסקים) ולא ניתן לבטל או להחזיר אותם לאחר אישור ההזמנה. שאר הגוונים והמידות זמינים בדרך כלל תוך 4–14 ימי עסקים.</p>\n<h3>שדרוגים בתוספת תשלום</h3><ul><li>כיור לואי / כיור זכוכית אינטגרלי</li><li>כיור אינטגרלי קוריאן לבן מט</li></ul>\n<h3>מחירון הובלה והתקנה – מתקין מטעם סניטק</h3>\n<table><tbody>\n<tr><td>הובלה והתקנת ארון 40–120 ס״מ</td><td>354 ₪</td></tr>\n<tr><td>התקנת ארון שירות (באותו מעמד)</td><td>151 ₪</td></tr>\n<tr><td>התקנת כיור מונח / אינטגרלי</td><td>283 ₪</td></tr>\n<tr><td>התקנת מראה</td><td>283 ₪</td></tr>\n<tr><td>מדידה בבית הלקוח (עד 120 ס״מ)</td><td>100 ₪</td></tr>\n<tr><td>סבלות מקומה 3 ומעלה ללא מעלית – לקומה</td><td>51 ₪</td></tr>\n<tr><td>תוספת אזור מרוחק א׳ / ב׳ / ג׳</td><td>100 / 202 / 909 ₪</td></tr>\n<tr><td>דמי ביטול / הגעה ללא אפשרות התקנה</td><td>202 ₪</td></tr>\n</tbody></table>\n<ul><li>המחירים כוללים מע״מ. התשלום מתבצע ישירות למתקין, לא באתר.</li>\n<li>ההתקנה מתבצעת על קיר לבנים / איטונג / בטון. על קיר גבס – רק אחרי הכנת חיזוק.</li>\n<li>לא כולל אינסטלציה, חשמל ופירוק ארון קיים. מועד ההתקנה: כ-10–14 ימי עסקים מרגע שהמוצר מוכן.</li></ul>\n<h3>איך מזמינים ב-BathMall</h3><p>בוחרים מידה, גוון, ידיות ותוספות – המחיר מתעדכן אוטומטית. אחרי ההזמנה ההזמנה עוברת ישירות לסניטק, ונציג ה-AI שלנו מעדכן אתכם בכל שלב בוואטסאפ. מתלבטים במידה? שלחו לנו בצ׳אט את מידות הקיר ונעזור לבחור.</p>\n<h3>על סניטק</h3><p>סניטק פועלת בישראל מאז 1994 בייצור, ייבוא ושיווק ארונות אמבטיה, כלים סניטריים ומוצרי רחצה, ומוכרת דרך מאות חנויות בכל הארץ. אחריות יצרן לפי תנאי סניטק.</p>",
+   "categories": [
+    "sanitec-bathroom-cabinets",
+    "bathroom-cabinets"
+   ],
+   "images": [
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sebastian-1.jpg",
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sebastian-2.jpg",
+    "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sebastian-drawing.jpg"
+   ],
+   "attributes": [
+    [
+     "מותג",
+     [
+      "סניטק"
+     ]
+    ],
+    [
+     "סוג",
+     [
+      "ארון אמבטיה"
+     ]
+    ],
+    [
+     "התקנה",
+     [
+      "עומד על רגליים"
+     ]
+    ],
+    [
+     "חומר",
+     [
+      "ארון צבוע אפוקסי. בסיס רגלי ארון מעץ, גוף סנדוויץ׳, חזית MDF ירוק לחדרים רטובים"
+     ]
+    ],
+    [
+     "רוחב (ס״מ)",
+     [
+      "62",
+      "72",
+      "82",
+      "92",
+      "102",
+      "122"
+     ]
+    ],
+    [
+     "עומק (ס״מ)",
+     [
+      "47"
+     ]
+    ],
+    [
+     "ידיות",
+     [
+      "שחור מט",
+      "ניקל מוברש",
+      "ברונזה עתיק"
+     ]
+    ],
+    [
+     "כולל",
+     [
+      "כיור אינטגרלי סקיני חרס לבן"
+     ]
+    ],
+    [
+     "זמן אספקה",
+     [
+      "4–21 ימי עסקים לפי גוון ומידה"
+     ]
+    ]
+   ],
+   "addons": [
+    {
+     "name": "רוחב",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "המחיר משתנה לפי המידה. מידות 72 ו-82 (וכן 92 ו-102) באותו מחיר – כדאי לבדוק מה נכנס במקום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 0,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn1",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "62 ס״מ · עומק 47 · כיור סקיני",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "72 ס״מ · עומק 47 · כיור סקיני · ייצור מיוחד (21 ימי עסקים)",
+       "price": "400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "82 ס״מ · עומק 47 · כיור סקיני",
+       "price": "400",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "92 ס״מ · עומק 47 · כיור סקיני · ייצור מיוחד (21 ימי עסקים)",
+       "price": "900",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "102 ס״מ · עומק 47 · כיור סקיני",
+       "price": "900",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "122 ס״מ · עומק 47 · כיור סקיני · ייצור מיוחד (21 ימי עסקים)",
+       "price": "1500",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "גוון הארון",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ללא תוספת תשלום. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של סניטק. גוון המסומן \"ייצור מיוחד\" לא ניתן לביטול או להחזרה.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 1,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn2",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "לבן משי · 4 ימי עסקים",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-bb29ab1f26.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "תכלת משי · 4 ימי עסקים",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-ce9c60bdf2.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פיסטוק משי · 4 ימי עסקים",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-3522843c62.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "פרל משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-87da75fe63.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "סטון משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-af83ef93a4.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "גריי משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-1ab25fa81c.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "חרדל משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-e6f3737fd4.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שחור משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-b4b89752b2.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "בסיס ארון",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ללא תוספת תשלום. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של סניטק. גוון המסומן \"ייצור מיוחד\" לא ניתן לביטול או להחזרה.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "images",
+     "position": 2,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn3",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "לבן משי · 21 ימי עסקים · ייצור מיוחד",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-76824aea85.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "עץ טבעי מבוקע · 4 ימי עסקים",
+       "price": "",
+       "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-sw-sebastian-6c47641fb8.jpg",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "צבע הידיות",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ללא תוספת תשלום.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 3,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn4",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "שחור מט",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ניקל מוברש",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ברונזה עתיק",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "כיור ומשטח",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "המחיר כולל כיור אינטגרלי סקיני חרס לבן. אפשר לשדרג.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 4,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn5",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "כיור אינטגרלי סקיני חרס לבן (כלול במחיר)",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שדרוג: כיור אינטגרלי לואי או זכוכית",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "שדרוג: כיור אינטגרלי קוריאן לבן מט (לא זמין במידה 62)",
+       "price": "1999",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "מראה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "מראה קריסטל בלגית. בחרו מראה ברוחב המתאים לארון. המראה אינה כלולה במחיר הארון.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 5,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn6",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "ללא מראה",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 60 ס״מ",
+       "price": "149",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 70 ס״מ",
+       "price": "189",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 80 ס״מ",
+       "price": "189",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 90 ס״מ",
+       "price": "219",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 100 ס״מ",
+       "price": "219",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 409 מרובעת מרחפת · רוחב 120 ס״מ",
+       "price": "289",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 60 ס״מ",
+       "price": "139",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 70 ס״מ",
+       "price": "169",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 80 ס״מ",
+       "price": "169",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 90 ס״מ",
+       "price": "199",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 100 ס״מ",
+       "price": "199",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 305 מסגרת אלומיניום שחור מט · רוחב 120 ס״מ",
+       "price": "239",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 60 ס״מ",
+       "price": "99",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 70 ס״מ",
+       "price": "129",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 80 ס״מ",
+       "price": "129",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 90 ס״מ",
+       "price": "149",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 100 ס״מ",
+       "price": "149",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 109 מסגרת אלומיניום כסוף · רוחב 120 ס״מ",
+       "price": "189",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 60 ס״מ",
+       "price": "289",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 80 ס״מ",
+       "price": "369",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 404 עגולה, מסגרת שחור מט / זהב · קוטר 100 ס״מ",
+       "price": "519",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 509 עגולה מרחפת · קוטר 60 ס״מ",
+       "price": "229",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 509 עגולה מרחפת · קוטר 80 ס״מ",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 509 עגולה מרחפת · קוטר 100 ס״מ",
+       "price": "429",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 309 אליפסה מרחפת · רוחב 80 ס״מ",
+       "price": "349",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 309 אליפסה מרחפת · רוחב 100 ס״מ",
+       "price": "429",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "מראה 309 אליפסה מרחפת · רוחב 120 ס״מ",
+       "price": "509",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 60 ס״מ",
+       "price": "829",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 70 ס״מ",
+       "price": "909",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 80 ס״מ",
+       "price": "909",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 90 ס״מ",
+       "price": "1129",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 100 ס״מ",
+       "price": "1129",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון מראה 709 קלפה אפוקסי · רוחב 120 ס״מ",
+       "price": "1359",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "ארון שירות תואם",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "ארון שירות 2001 – גובה 140 / רוחב 35 / עומק 30, מותאם לסדרה.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 6,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn7",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "ללא",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "ארון שירות 2001 · גובה 140 / רוחב 35 / עומק 30",
+       "price": "1469",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    },
+    {
+     "name": "הובלה והתקנה",
+     "title_format": "label",
+     "description_enable": 1,
+     "description": "לא נגבה באתר. ההתקנה מתבצעת על ידי מתקין מטעם סניטק בלבד, והתשלום מתבצע ישירות למתקין לפי מחירון סניטק (כולל מע״מ). תוספות אפשריות: קומה 3 ומעלה ללא מעלית 51 ₪ לקומה; אזורים מרוחקים 100/202/909 ₪.",
+     "placeholder_enable": 0,
+     "placeholder": "",
+     "type": "multiple_choice",
+     "display": "select",
+     "position": 7,
+     "required": 1,
+     "restrictions": 0,
+     "restrictions_type": "any_text",
+     "adjust_price": 0,
+     "price_type": "flat_fee",
+     "price": "",
+     "id": "sn8",
+     "min": 0,
+     "max": 0,
+     "default": "",
+     "options": [
+      {
+       "label": "איסוף עצמי מסניטק – ללא עלות",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנת הארון: 354 ₪ – משולם ישירות למתקין סניטק",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      },
+      {
+       "label": "הובלה והתקנת הארון + התקנת מראה: 637 ₪ – משולם ישירות למתקין סניטק",
+       "price": "",
+       "image": "",
+       "price_type": "flat_fee",
+       "visibility": 1
+      }
+     ]
+    }
+   ],
+   "meta": {
+    "advanced_seo_description": "ארון אמבטיה סבסטיאן של סניטק ברוחב 62–122 ס״מ. החל מ-1,790 ₪ כולל מע״מ. 9 גוונים, התקנה ע״י מתקין סניטק.",
+    "jetpack_seo_html_title": "ארון אמבטיה סבסטיאן Sebastian – סניטק | מחיר, מידות וגוונים | BathMall",
+    "_bm_supplier": "sanitec",
+    "_bm_catalog_page": "6"
+   }
+  }
+ ]
+}
