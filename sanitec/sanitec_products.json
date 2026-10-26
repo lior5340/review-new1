@@ -1,5 +1,5 @@
 {
- "version": "sn-t1",
+ "version": "sn-t2",
  "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/sanitec/sanitec-logo.png",
  "categories": [
   {
@@ -163,7 +163,7 @@
      ]
     },
     {
-     "name": "גוון הארון",
+     "name": "צבע",
      "title_format": "label",
      "description_enable": 1,
      "description": "ללא תוספת תשלום. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של סניטק. גוון המסומן \"ייצור מיוחד\" לא ניתן לביטול או להחזרה.",
@@ -242,7 +242,7 @@
      ]
     },
     {
-     "name": "בסיס ארון",
+     "name": "בסיס הארון",
      "title_format": "label",
      "description_enable": 1,
      "description": "ללא תוספת תשלום. הגוונים להמחשה – הגוון הסופי לפי לוח הצבעים של סניטק. גוון המסומן \"ייצור מיוחד\" לא ניתן לביטול או להחזרה.",
@@ -279,7 +279,7 @@
      ]
     },
     {
-     "name": "צבע הידיות",
+     "name": "ידיות",
      "title_format": "label",
      "description_enable": 1,
      "description": "ללא תוספת תשלום.",
@@ -323,7 +323,7 @@
      ]
     },
     {
-     "name": "כיור ומשטח",
+     "name": "משטח וכיור",
      "title_format": "label",
      "description_enable": 1,
      "description": "המחיר כולל כיור אינטגרלי סקיני חרס לבן. אפשר לשדרג.",
