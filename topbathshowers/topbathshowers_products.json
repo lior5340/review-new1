@@ -1,5 +1,5 @@
 {
-"version": "tbs-v1",
+"version": "tbs-v2",
 "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
 "categories": [
 {
@@ -163,13 +163,6 @@
 },
 {
 "label": "מידה מיוחדת 75.5–77.5 ס״מ",
-"price": "159",
-"image": "",
-"price_type": "flat_fee",
-"visibility": 1
-},
-{
-"label": "מידה מיוחדת 77.5–79.5 ס״מ",
 "price": "159",
 "image": "",
 "price_type": "flat_fee",
@@ -1062,13 +1055,6 @@
 "visibility": 1
 },
 {
-"label": "מידה מיוחדת 77.5–79.5 ס״מ",
-"price": "300",
-"image": "",
-"price_type": "flat_fee",
-"visibility": 1
-},
-{
 "label": "מידה מיוחדת 79.5–81.5 ס״מ",
 "price": "300",
 "image": "",
@@ -1091,13 +1077,6 @@
 },
 {
 "label": "מידה מיוחדת 85.5–87.5 ס״מ",
-"price": "300",
-"image": "",
-"price_type": "flat_fee",
-"visibility": 1
-},
-{
-"label": "מידה מיוחדת 87.5–89.5 ס״מ",
 "price": "300",
 "image": "",
 "price_type": "flat_fee",
@@ -1706,13 +1685,6 @@
 },
 {
 "label": "מידה מיוחדת 75.5–77.5 ס״מ",
-"price": "169",
-"image": "",
-"price_type": "flat_fee",
-"visibility": 1
-},
-{
-"label": "מידה מיוחדת 77.5–79.5 ס״מ",
 "price": "169",
 "image": "",
 "price_type": "flat_fee",
