@@ -1,5 +1,5 @@
 {
-"version": "ps-v4",
+"version": "ps-v5",
 "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/premium-showers-logo.png",
 "categories": [
 {
@@ -866,91 +866,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -987,56 +987,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "609",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -1448,91 +1448,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "1219",
+"price": "1339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -1569,56 +1569,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "609",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "1829",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -2144,56 +2144,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "619",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "1859",
+"price": "2299",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -2682,49 +2682,49 @@
 },
 {
 "label": "שחור מט",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "929",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -3257,56 +3257,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "479",
+"price": "579",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "1439",
+"price": "1759",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -7985,49 +7985,49 @@
 },
 {
 "label": "שחור מט",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "500",
+"price": "559",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -10248,56 +10248,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "200",
+"price": "249",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "600",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -10628,7 +10628,7 @@
 },
 {
 "label": "111–120 ס״מ",
-"price": "900",
+"price": "929",
 "image": "",
 "price_type": "flat_fee",
 "visibility": 1
@@ -10716,91 +10716,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "399",
+"price": "809",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -10837,56 +10837,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "299",
+"price": "409",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "499",
+"price": "1209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -11419,49 +11419,49 @@
 },
 {
 "label": "שחור מט",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "499",
+"price": "679",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -11866,91 +11866,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "499",
+"price": "599",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -11987,56 +11987,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "250",
+"price": "339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "700",
+"price": "1029",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -12825,8 +12825,8 @@
 "name": "מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה",
 "slug": "premium-shower-elg-10",
 "status": "publish",
-"regular_price": "2590",
-"short_description": "<p>מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה. זכוכית מחוסמת 6 / 8 מ״מ, רוחב 80–120 ס״מ, ייצור לפי מידה, 7 שנות אחריות על הפרזול. מחיר החל מ-2,590 ₪ כולל מע״מ.</p>",
+"regular_price": "2819",
+"short_description": "<p>מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה. זכוכית מחוסמת 6 / 8 מ״מ, רוחב 80–120 ס״מ, ייצור לפי מידה, 7 שנות אחריות על הפרזול. מחיר החל מ-2,819 ₪ כולל מע״מ.</p>",
 "description": "<h2>מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה | מקלחוני פרימיום</h2>\n<p>מקלחון פינתי המורכב מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה. המקלחון מיוצר לפי מידה מדויקת שנלקחת בבית הלקוח, מזכוכית מחוסמת בטיחותית, ומותקן ע״י מתקין מקצועי מטעם היצרן.</p>\n<h3>מה כלול</h3><ul><li>זכוכית מחוסמת שקוף, גרניט, פפיטה 6 ו-8 מ״מ</li><li>גימור האבזור בניקל מבריק, ידיות כפתור סטנדרט</li><li>מגב אטימה תחתון כפול בדלתות, מגב אטימה בלון לכל האורך</li><li>סגירה ע״י מגנטים שקופים</li><li>סף ריצפה ניקל/פרספקס שקוף לאטימה מרבית</li><li>גובה המקלחון 1.90 מ׳</li><li>ניתן לקבל דופן קבועה ב-6 מ״מ עד רוחב 100 בלבד</li></ul>\n\n<h3>איך מזמינים</h3><ol><li>בוחרים מידה, עובי וסוג זכוכית וגימור פרזול – המחיר מתעדכן מיד.</li><li>אחרי ההזמנה מתואמת מדידה בבית. המידה הסופית נקבעת במדידה.</li><li>הייצור לפי המידה, ואספקה והתקנה עד 14 ימי עסקים מאישור ההזמנה.</li></ol>\n<h3>מדידה, הובלה והתקנה</h3><ul><li>מדידה, הובלה והתקנה: 500 ₪ כולל מע״מ.</li><li>התשלום עבור מדידה, הובלה והתקנה משולם ישירות למתקין ואינו נגבה באתר. עלות המדידה מקוזזת מעלות ההתקנה.</li><li>באזורים מרוחקים תיתכן תוספת תשלום. פירוק מקלחון קיים: 150 ₪. פינוי מקלחון ישן: 100 ₪. סבלות מעל קומה 2: 50 ₪ לקומה.</li><li>המדידה מתבצעת כשהשטח מוכן (ריצוף, חיפוי, רובה ושיפועים). ההתקנה על קיר בלוקים או בטון בלבד (קיר גבס – רק עם חיזוק).</li></ul>\n<h3>אחריות</h3><ul><li>7 שנות אחריות על פרופילים וצירים (פגם ייצור).</li><li>אחריות לשבר זכוכית: 3 שנים בשימוש סביר (זכוכית שקופה וגרניט).</li><li>12 חודשי אחריות על ההתקנה.</li><li>אין אחריות על מגבים ומגנטים. שימוש בחומרי ניקוי חומציים מבטל את האחריות.</li></ul>\n<p>ציפוי אנטי-קאלק אוטם את נקבוביות הזכוכית, כך שהמים מחליקים והאבנית מצטברת פחות – מומלץ במיוחד במים קשים. המוצר מיוצר לפי הזמנה אישית; ביטול לאחר תחילת הייצור כפוף לחוק הגנת הצרכן לגבי מוצרים שיוצרו במיוחד עבור הצרכן.</p>",
 "categories": [
 "premium-corner-hinge",
@@ -13016,91 +13016,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "499",
+"price": "669",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -13137,56 +13137,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "300",
+"price": "339",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "800",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -13387,7 +13387,7 @@
 }
 ],
 "meta": {
-"advanced_seo_description": "מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה. ייצור לפי מידה, החל מ-2,590 ₪ כולל מע״מ, מדידה והתקנה עד הבית. BathMall.",
+"advanced_seo_description": "מקלחון פינתי אלגנט 10 – מצד אחד דופן קבועה ומצד שני שתי דלתות הנפתחות פנימה והחוצה. ייצור לפי מידה, החל מ-2,819 ₪ כולל מע״מ, מדידה והתקנה עד הבית. BathMall.",
 "jetpack_seo_html_title": "מקלחון פינתי אלגנט 10 | מחיר ומידות | מקלחוני פרימיום – BathMall",
 "_bm_supplier": "tachelet",
 "_bm_supplier_model": "רומא 609",
@@ -15747,49 +15747,49 @@
 },
 {
 "label": "שחור מט – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד – עד 100 ס״מ",
-"price": "300",
+"price": "479",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -16569,49 +16569,49 @@
 },
 {
 "label": "שחור מט",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "750",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -17095,91 +17095,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "500",
+"price": "509",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -17216,56 +17216,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "250",
+"price": "349",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "750",
+"price": "1049",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -17863,56 +17863,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "200",
+"price": "209",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "650",
+"price": "789",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -19067,49 +19067,49 @@
 },
 {
 "label": "שחור מט",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "700",
+"price": "829",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -19970,8 +19970,8 @@
 "name": "מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה",
 "slug": "premium-shower-rvr-10",
 "status": "publish",
-"regular_price": "1990",
-"short_description": "<p>מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה. זכוכית מחוסמת 6 / 8 מ״מ, רוחב 70–200 ס״מ, ייצור לפי מידה, 7 שנות אחריות על הפרזול. מחיר החל מ-1,990 ₪ כולל מע״מ.</p>",
+"regular_price": "2039",
+"short_description": "<p>מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה. זכוכית מחוסמת 6 / 8 מ״מ, רוחב 70–200 ס״מ, ייצור לפי מידה, 7 שנות אחריות על הפרזול. מחיר החל מ-2,039 ₪ כולל מע״מ.</p>",
 "description": "<h2>מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה | מקלחוני פרימיום</h2>\n<p>מקלחון חזית המורכב מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה. המקלחון מיוצר לפי מידה מדויקת שנלקחת בבית הלקוח, מזכוכית מחוסמת בטיחותית, ומותקן ע״י מתקין מקצועי מטעם היצרן.</p>\n<h3>מה כלול</h3><ul><li>זכוכית מחוסמת שקוף, גרניט, פפיטה 6 ו-8 מ״מ, גימור האבזור בניקל מבריק</li><li>ידיות כפתור סטנדרט, מוט חיזוק לקבוע</li><li>מגב אטימה תחתון כפול בדלת, מגב אטימה בלון לכל האורך</li><li>סף ריצפה ניקל / פרספקס שקוף לאטימה מרבית</li><li>סגירה ע״י מגנטים שקופים, גובה המקלחון 1.90 מ׳</li></ul>\n\n<h3>איך מזמינים</h3><ol><li>בוחרים מידה, עובי וסוג זכוכית וגימור פרזול – המחיר מתעדכן מיד.</li><li>אחרי ההזמנה מתואמת מדידה בבית. המידה הסופית נקבעת במדידה.</li><li>הייצור לפי המידה, ואספקה והתקנה עד 14 ימי עסקים מאישור ההזמנה.</li></ol>\n<h3>מדידה, הובלה והתקנה</h3><ul><li>מדידה, הובלה והתקנה: 500 ₪ כולל מע״מ.</li><li>התשלום עבור מדידה, הובלה והתקנה משולם ישירות למתקין ואינו נגבה באתר. עלות המדידה מקוזזת מעלות ההתקנה.</li><li>באזורים מרוחקים תיתכן תוספת תשלום. פירוק מקלחון קיים: 150 ₪. פינוי מקלחון ישן: 100 ₪. סבלות מעל קומה 2: 50 ₪ לקומה.</li><li>המדידה מתבצעת כשהשטח מוכן (ריצוף, חיפוי, רובה ושיפועים). ההתקנה על קיר בלוקים או בטון בלבד (קיר גבס – רק עם חיזוק).</li></ul>\n<h3>אחריות</h3><ul><li>7 שנות אחריות על פרופילים וצירים (פגם ייצור).</li><li>אחריות לשבר זכוכית: 3 שנים בשימוש סביר (זכוכית שקופה וגרניט).</li><li>12 חודשי אחריות על ההתקנה.</li><li>אין אחריות על מגבים ומגנטים. שימוש בחומרי ניקוי חומציים מבטל את האחריות.</li></ul>\n<p>ציפוי אנטי-קאלק אוטם את נקבוביות הזכוכית, כך שהמים מחליקים והאבנית מצטברת פחות – מומלץ במיוחד במים קשים. המוצר מיוצר לפי הזמנה אישית; ביטול לאחר תחילת הייצור כפוף לחוק הגנת הצרכן לגבי מוצרים שיוצרו במיוחד עבור הצרכן.</p>",
 "categories": [
 "premium-front-hinge",
@@ -20182,91 +20182,91 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אסיד",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-acid.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "500",
+"price": "549",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -20303,56 +20303,56 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "300",
+"price": "329",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "700",
+"price": "999",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -20597,7 +20597,7 @@
 }
 ],
 "meta": {
-"advanced_seo_description": "מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה. ייצור לפי מידה, החל מ-1,990 ₪ כולל מע״מ, מדידה והתקנה עד הבית. BathMall.",
+"advanced_seo_description": "מקלחון חזית ריביירה 10 – מחצי דופן קבועה ודלת נפתחת וחצי דלת הרמוניקה המתקפלת פנימה והחוצה. ייצור לפי מידה, החל מ-2,039 ₪ כולל מע״מ, מדידה והתקנה עד הבית. BathMall.",
 "jetpack_seo_html_title": "מקלחון חזית ריביירה 10 | מחיר ומידות | מקלחוני פרימיום – BathMall",
 "_bm_supplier": "tachelet",
 "_bm_supplier_model": "ונציה 709",
@@ -20950,49 +20950,49 @@
 },
 {
 "label": "שחור מט",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "ברונזה",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-bronze.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "700",
+"price": "769",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -21608,7 +21608,7 @@
 },
 {
 "label": "121–140 ס״מ · זכוכית 8 מ״מ",
-"price": "1000",
+"price": "1039",
 "image": "",
 "price_type": "flat_fee",
 "visibility": 1
@@ -21666,84 +21666,84 @@
 },
 {
 "label": "חלבי (מט)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-milky.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אקסטרה קליר",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר קארה",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-carre.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אנטי סאן אפור",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-antisun-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 100)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-100.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 101)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 102)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-102.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 103)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "פסי רוחב (צריבה 104)",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "מאסטר ליין",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-master-line.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אבני נחל",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-peble.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "אפור כהה",
-"price": "350",
+"price": "449",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-dark-grey.jpg",
 "price_type": "flat_fee",
 "visibility": 1
@@ -21780,49 +21780,49 @@
 },
 {
 "label": "ניקל מט (מוברש)",
-"price": "150",
+"price": "229",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-brushed.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "שחור מט",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-black.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "גרפיט",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-graphite.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מט",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-matte.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "זהב מבריק",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-gold-polished.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "רוז גולד",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-rose-gold.jpg",
 "price_type": "flat_fee",
 "visibility": 1
 },
 {
 "label": "לבן מט",
-"price": "500",
+"price": "729",
 "image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/hw-white.jpg",
 "price_type": "flat_fee",
 "visibility": 1
