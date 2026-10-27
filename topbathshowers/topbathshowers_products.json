@@ -1,0 +1,7309 @@
+{
+"version": "tbs-v1",
+"logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/topbath/topbath-logo.png",
+"categories": [
+{
+"slug": "shower-enclosures",
+"name": "מקלחונים",
+"parent": "",
+"description": ""
+},
+{
+"slug": "topbath-showers",
+"name": "מקלחונים טופ בט",
+"parent": "shower-enclosures",
+"description": "מקלחונים ואמבטיונים של טופ בט, סדרת זכוכית מחוסמת 6 מ״מ: פינתיים, חזית, הזזה, הרמוניקה ודפנות קבועות, בגימור ניקל מבריק, שחור וזהב מט."
+},
+{
+"slug": "corner-showers",
+"name": "מקלחון פינתי",
+"parent": "shower-enclosures",
+"description": ""
+},
+{
+"slug": "front-showers",
+"name": "מקלחון חזיתי",
+"parent": "shower-enclosures",
+"description": ""
+},
+{
+"slug": "bath-screens",
+"name": "אמבטיונים",
+"parent": "shower-enclosures",
+"description": ""
+}
+],
+"products": [
+{
+"sku": "TBS-TWIN-NI",
+"name": "מקלחון פינתי טווין TWIN – ניקל מבריק – טופ בט",
+"slug": "tb-shower-twin-corner",
+"status": "publish",
+"regular_price": "549",
+"short_description": "<p>מקלחון פינתי טווין של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-549 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי טווין TWIN – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד מידה מיוחדת 85.5–87.5 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/twin-pic.jpg|tb-shower-twin-corner-1.jpg|מקלחון פינתי טווין ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs1",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80×90 ס״מ (נטו 79.5–89.5)",
+"price": "380",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 67.5–69.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 69.5–71.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 71.5–73.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 73.5–75.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 75.5–77.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 77.5–79.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 79.5–81.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 81.5–83.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 83.5–85.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 85.5–87.5 ס״מ",
+"price": "159",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs2",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs3",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי טווין של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-549 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי טווין TWIN ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online (מרקו קרמיקה) 549"
+}
+},
+{
+"sku": "TBS-TWIN-BL",
+"name": "מקלחון פינתי טווין TWIN – שחור – טופ בט",
+"slug": "tb-shower-twin-black",
+"status": "publish",
+"regular_price": "789",
+"short_description": "<p>מקלחון פינתי טווין של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-789 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי טווין TWIN – שחור | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/twin-black-pic.jpg|tb-shower-twin-black-1.jpg|מקלחון פינתי טווין שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs4",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs5",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs6",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי טווין של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-789 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי טווין TWIN שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 790"
+}
+},
+{
+"sku": "TBS-TWINSTRIPS-BL",
+"name": "מקלחון פינתי טווין פסים שחורים TWIN STRIPS – שחור – טופ בט",
+"slug": "tb-shower-twin-black-strips",
+"status": "publish",
+"regular_price": "749",
+"short_description": "<p>מקלחון פינתי טווין פסים שחורים של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-749 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי טווין פסים שחורים TWIN STRIPS – שחור | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות על ציר, זכוכית שקופה עם פסים שחורים. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות על ציר, זכוכית שקופה עם פסים שחורים.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף עם פסים שחורים.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/twin-black-strips.jpg|tb-shower-twin-black-strips-1.jpg|מקלחון פינתי טווין פסים שחורים שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף עם פסים שחורים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs7",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs8",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף עם פסים שחורים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs9",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי טווין פסים שחורים של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-749 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי טווין פסים שחורים TWIN STRIPS שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "shoc 757"
+}
+},
+{
+"sku": "TBS-TWINCUBE-BL",
+"name": "מקלחון פינתי טווין קוביות TWIN CUBE – שחור – טופ בט",
+"slug": "tb-shower-twin-cube-black",
+"status": "publish",
+"regular_price": "909",
+"short_description": "<p>מקלחון פינתי טווין קוביות של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-909 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי טווין קוביות TWIN CUBE – שחור | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות על ציר, זכוכית שקופה עם קוביות שחורות. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות על ציר, זכוכית שקופה עם קוביות שחורות.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף עם קוביות שחורות.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/twin-black-pic.jpg|tb-shower-twin-cube-black-1.jpg|מקלחון פינתי טווין קוביות שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף עם קוביות שחורות"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs10",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs11",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף עם קוביות שחורות",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-103.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs12",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי טווין קוביות של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-909 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי טווין קוביות TWIN CUBE שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 909"
+}
+},
+{
+"sku": "TBS-TWIN-GO",
+"name": "מקלחון פינתי טווין TWIN – זהב מט – טופ בט",
+"slug": "tb-shower-twin-gold",
+"status": "publish",
+"regular_price": "1039",
+"short_description": "<p>מקלחון פינתי טווין של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,039 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי טווין TWIN – זהב מט | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/TWIN-GOLD-pic-1.jpg|tb-shower-twin-gold-1.jpg|מקלחון פינתי טווין זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs13",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs14",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs15",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי טווין של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-1,039 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי טווין TWIN זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1040"
+}
+},
+{
+"sku": "TBS-MAX-NI",
+"name": "מקלחון פינתי מקס MAX – ניקל מבריק – טופ בט",
+"slug": "tb-shower-max-chromium",
+"status": "publish",
+"regular_price": "1089",
+"short_description": "<p>מקלחון פינתי מקס של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,089 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי מקס MAX – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד מידה מיוחדת 107.5–109.5 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/max-chromium-pic.jpg|tb-shower-max-chromium-1.jpg|מקלחון פינתי מקס ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs16",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80×90 ס״מ (נטו 79.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 67.5–69.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 69.5–71.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 71.5–73.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 73.5–75.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 75.5–77.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 77.5–79.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 79.5–81.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 81.5–83.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 83.5–85.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 85.5–87.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 87.5–89.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 89.5–91.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 91.5–93.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 93.5–95.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 95.5–97.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 97.5–99.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 99.5–101.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 101.5–103.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 103.5–105.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 105.5–107.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 107.5–109.5 ס״מ",
+"price": "300",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs17",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs18",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי מקס של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,089 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי מקס MAX ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1090"
+}
+},
+{
+"sku": "TBS-MAX-BL",
+"name": "מקלחון פינתי מקס MAX – שחור – טופ בט",
+"slug": "tb-shower-max-black",
+"status": "draft",
+"regular_price": "1259",
+"short_description": "<p>מקלחון פינתי מקס של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,259 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי מקס MAX – שחור | טופ בט</h2>\n<p>מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/max-black-pic.jpg|tb-shower-max-black-1.jpg|מקלחון פינתי מקס שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs19",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs20",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs21",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי מקס של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-1,259 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי מקס MAX שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": " None"
+}
+},
+{
+"sku": "TBS-MAX-GO",
+"name": "מקלחון פינתי מקס MAX – זהב מט – טופ בט",
+"slug": "tb-shower-max",
+"status": "publish",
+"regular_price": "1379",
+"short_description": "<p>מקלחון פינתי מקס של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,379 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי מקס MAX – זהב מט | טופ בט</h2>\n<p>מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דפנות קבועות ושתי דלתות על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/TWIN-GOLD-pic-1.jpg|tb-shower-max-1.jpg|מקלחון פינתי מקס זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs22",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs23",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs24",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי מקס של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-1,379 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי מקס MAX זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1380"
+}
+},
+{
+"sku": "TBS-PLATINUM-NI",
+"name": "מקלחון פינתי פלטיניום PLATINUM – ניקל מבריק – טופ בט",
+"slug": "tb-shower-platinum-chromium",
+"status": "publish",
+"regular_price": "999",
+"short_description": "<p>מקלחון פינתי פלטיניום של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-999 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי פלטיניום PLATINUM – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד מידה מיוחדת 85.5–87.5 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/PLATINUM-chromium-pic.jpg|tb-shower-platinum-chromium-1.jpg|מקלחון פינתי פלטיניום ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs25",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80×90 ס״מ (נטו 79.5–89.5)",
+"price": "279",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 67.5–69.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 69.5–71.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 71.5–73.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 73.5–75.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 75.5–77.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 77.5–79.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 79.5–81.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 81.5–83.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 83.5–85.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 85.5–87.5 ס״מ",
+"price": "169",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs26",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs27",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי פלטיניום של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-999 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי פלטיניום PLATINUM ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 999"
+}
+},
+{
+"sku": "TBS-PLATINUM-BL",
+"name": "מקלחון פינתי פלטיניום PLATINUM – שחור – טופ בט",
+"slug": "tb-shower-platinum-black",
+"status": "publish",
+"regular_price": "1149",
+"short_description": "<p>מקלחון פינתי פלטיניום של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,149 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי פלטיניום PLATINUM – שחור | טופ בט</h2>\n<p>מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/twin-black-strips.jpg|tb-shower-platinum-black-1.jpg|מקלחון פינתי פלטיניום שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs28",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "50",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs29",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs30",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי פלטיניום של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-1,149 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי פלטיניום PLATINUM שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1149"
+}
+},
+{
+"sku": "TBS-PLATINUM-GO",
+"name": "מקלחון פינתי פלטיניום PLATINUM – זהב מט – טופ בט",
+"slug": "tb-shower-platinum",
+"status": "publish",
+"regular_price": "1379",
+"short_description": "<p>מקלחון פינתי פלטיניום של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,379 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי פלטיניום PLATINUM – זהב מט | טופ בט</h2>\n<p>מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/TWIN-GOLD-pic-1.jpg|tb-shower-platinum-1.jpg|מקלחון פינתי פלטיניום זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs31",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs32",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs33",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי פלטיניום של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-1,379 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי פלטיניום PLATINUM זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1380"
+}
+},
+{
+"sku": "TBS-SPIRIT-NI",
+"name": "מקלחון פינתי ספיריט SPIRIT – ניקל מבריק – טופ בט",
+"slug": "tb-shower-spirit",
+"status": "publish",
+"regular_price": "599",
+"short_description": "<p>מקלחון פינתי ספיריט של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-599 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי ספיריט SPIRIT – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: גלגלי אל-חלד כפולים לתנועה קלה ושקטה, מגנטים לאטימה, זוג ידיות מעוצבות.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 100×100 ס״מ (נטו 97.5–99.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/spirit-pic.jpg|tb-shower-spirit-1.jpg|מקלחון פינתי ספיריט ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs34",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "100×100 ס״מ (נטו 97.5–99.5)",
+"price": "749",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs35",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs36",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי ספיריט של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-599 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי ספיריט SPIRIT ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 599"
+}
+},
+{
+"sku": "TBS-SPIRIT-BL",
+"name": "מקלחון פינתי ספיריט SPIRIT – שחור – טופ בט",
+"slug": "tb-shower-spirit-black",
+"status": "publish",
+"regular_price": "789",
+"short_description": "<p>מקלחון פינתי ספיריט של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-789 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי ספיריט SPIRIT – שחור | טופ בט</h2>\n<p>מקלחון פינתי הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: גלגלי אל-חלד כפולים לתנועה קלה ושקטה, מגנטים לאטימה, זוג ידיות מעוצבות.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 80×80 ס״מ (נטו 77.5–79.5) ועד 90×90 ס״מ (נטו 87.5–89.5).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/spirit-black-pic.jpg|tb-shower-spirit-black-1.jpg|מקלחון פינתי ספיריט שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs37",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ (נטו 77.5–79.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ (נטו 87.5–89.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs38",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs39",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי ספיריט של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-789 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי ספיריט SPIRIT שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 790"
+}
+},
+{
+"sku": "TBS-ELLIPCE-NI",
+"name": "מקלחון פינתי אליפס ELLIPCE – ניקל מבריק – טופ בט",
+"slug": "tb-shower-ellipce",
+"status": "publish",
+"regular_price": "799",
+"short_description": "<p>מקלחון פינתי אליפס של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-799 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי אליפס ELLIPCE – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי מעוגל – שתי דפנות קבועות ושתי דלתות הזזה מעוגלות. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי מעוגל – שתי דפנות קבועות ושתי דלתות הזזה מעוגלות.</li><li>גובה: 190 ס״מ.</li><li>פרזול: גלגלי אל-חלד כפולים לתנועה קלה ושקטה, מגנטים לאטימה, זוג ידיות מעוצבות.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80×80 ס״מ ועד 90×90 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/ellipce-pic-1.jpg|tb-shower-ellipce-1.jpg|מקלחון פינתי אליפס ניקל מבריק – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/ellipce-pic-2.jpg|tb-shower-ellipce-2.jpg|מקלחון פינתי אליפס ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs40",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80×80 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90×90 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs41",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs42",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי אליפס של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-799 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי אליפס ELLIPCE ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 800"
+}
+},
+{
+"sku": "TBS-FREE-NI",
+"name": "מקלחון חזית פריי FREE – ניקל מבריק – טופ בט",
+"slug": "tb-shower-free-nickel",
+"status": "publish",
+"regular_price": "689",
+"short_description": "<p>מקלחון חזית פריי של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 188 ס״מ. החל מ-689 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית פריי FREE – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 188 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 65–70 ס״מ ועד 171–175 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/free-nickel-pic.jpg|tb-shower-free-nickel-1.jpg|מקלחון חזית פריי ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"188"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs43",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "65–70 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "71–75 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "76–80 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "81–85 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "86–90 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "91–95 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "96–100 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "101–105 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "106–110 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "111–115 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "116–120 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "121–125 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "126–130 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "131–135 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "136–140 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "141–145 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "146–150 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "151–155 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "171–175 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs44",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs45",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית פריי של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-689 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית פריי FREE ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 689"
+}
+},
+{
+"sku": "TBS-FREE-BL",
+"name": "מקלחון חזית פריי FREE – שחור – טופ בט",
+"slug": "tb-shower-free-black",
+"status": "publish",
+"regular_price": "719",
+"short_description": "<p>מקלחון חזית פריי של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-719 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית פריי FREE – שחור | טופ בט</h2>\n<p>מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור שחורות.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / שקוף עם פסים שחורים.</li><li>מידות: 75–80 ס״מ ועד 140–145 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/free-black-pic.jpg|tb-shower-free-black-1.jpg|מקלחון חזית פריי שחור – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/free-black-pic-2.jpg|tb-shower-free-black-2.jpg|מקלחון חזית פריי שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"שקוף עם פסים שחורים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs46",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "75–80 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80–85 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "85–90 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90–95 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "95–100 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "100–105 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "105–110 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "110–115 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "115–120 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "120–125 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "125–130 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "130–135 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "135–140 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "140–145 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs47",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "שקוף עם פסים שחורים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs48",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית פריי של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-719 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית פריי FREE שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 719"
+}
+},
+{
+"sku": "TBS-FREE-GO",
+"name": "מקלחון חזית פריי FREE – זהב מט – טופ בט",
+"slug": "tb-shower-free",
+"status": "publish",
+"regular_price": "899",
+"short_description": "<p>מקלחון חזית פריי של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-899 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית פריי FREE – זהב מט | טופ בט</h2>\n<p>מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – שתי דלתות על ציר הנפתחות פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 75–80 ס״מ ועד 140–145 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/free-pic.jpg|tb-shower-free-1.jpg|מקלחון חזית פריי זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs49",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "75–80 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80–85 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "85–90 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90–95 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "95–100 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "100–105 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "105–110 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "110–115 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "115–120 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "120–125 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "125–130 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "130–135 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "135–140 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "140–145 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs50",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs51",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית פריי של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-899 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית פריי FREE זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 900"
+}
+},
+{
+"sku": "TBS-ECO-NI",
+"name": "מקלחון חזית אקו ECO – ניקל מבריק – טופ בט",
+"slug": "tb-shower-eco",
+"status": "publish",
+"regular_price": "689",
+"short_description": "<p>מקלחון חזית אקו של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-689 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית אקו ECO – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית – דלת אחת על ציר הנפתחת פנימה והחוצה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – דלת אחת על ציר הנפתחת פנימה והחוצה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב בלון מסיליקון, ידית כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 80 ס״מ (נטו 75.5–77.5) ועד מידה מיוחדת 83.5–85.5 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/eco-pic.jpg|tb-shower-eco-1.jpg|מקלחון חזית אקו ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs52",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "80 ס״מ (נטו 75.5–77.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90 ס״מ (נטו 85.5–87.5)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 65.5–67.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 67.5–69.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 69.5–71.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 71.5–73.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 73.5–75.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 77.5–79.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 79.5–81.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 81.5–83.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 83.5–85.5 ס״מ",
+"price": "172",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs53",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs54",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית אקו של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-689 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית אקו ECO ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 690"
+}
+},
+{
+"sku": "TBS-DOUBLE-NI",
+"name": "מקלחון חזית דאבל DOUBLE – ניקל מבריק – טופ בט",
+"slug": "tb-shower-double",
+"status": "publish",
+"regular_price": "1059",
+"short_description": "<p>מקלחון חזית דאבל של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,059 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית דאבל DOUBLE – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים.</li><li>מידות: 75–79 ס״מ ועד 120–124 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/double-pic.jpg|tb-shower-double-1.jpg|מקלחון חזית דאבל ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs55",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "75–79 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80–84 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "85–89 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90–94 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "95–99 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "100–104 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "105–109 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "110–114 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "115–119 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "120–124 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs56",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs57",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית דאבל של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,059 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית דאבל DOUBLE ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "shoc 1062"
+}
+},
+{
+"sku": "TBS-DOUBLE-BL",
+"name": "מקלחון חזית דאבל DOUBLE – שחור – טופ בט",
+"slug": "tb-shower-double-black",
+"status": "publish",
+"regular_price": "1289",
+"short_description": "<p>מקלחון חזית דאבל של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,289 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית דאבל DOUBLE – שחור | טופ בט</h2>\n<p>מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור שחורות.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 100–104 ס״מ ועד 160–165 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/double-black-pic.jpg|tb-shower-double-black-1.jpg|מקלחון חזית דאבל שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs58",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "100–104 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "105–109 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "110–114 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "115–119 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "120–124 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "125–129 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "130–134 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "135–139 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "140–144 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "145–149 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "150–154 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "155–159 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "160–165 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs59",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs60",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית דאבל של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-1,289 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית דאבל DOUBLE שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1290"
+}
+},
+{
+"sku": "TBS-TRIPLE-NI",
+"name": "מקלחון חזית טריפל TRIPLE – ניקל מבריק – טופ בט",
+"slug": "tb-shower-triple",
+"status": "publish",
+"regular_price": "1289",
+"short_description": "<p>מקלחון חזית טריפל של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,289 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית טריפל TRIPLE – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – דופן קבועה עם מוט חיזוק ודלת על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים.</li><li>מידות: 103–107 ס״מ ועד 158–162 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/triple-pic.jpg|tb-shower-triple-1.jpg|מקלחון חזית טריפל ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs61",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "103–107 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "108–112 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "113–117 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "118–122 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "123–127 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "128–132 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "133–137 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "138–142 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "143–147 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "148–152 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "153–157 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "158–162 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs62",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs63",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית טריפל של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,289 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית טריפל TRIPLE ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1290"
+}
+},
+{
+"sku": "TBS-ROLL-NI",
+"name": "מקלחון חזית רול ROLL – ניקל מבריק – טופ בט",
+"slug": "tb-shower-roll",
+"status": "publish",
+"regular_price": "1519",
+"short_description": "<p>מקלחון חזית רול של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,519 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית רול ROLL – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית – שתי דפנות קבועות ושתי דלתות על ציר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית – שתי דפנות קבועות ושתי דלתות על ציר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 151–155 ס״מ ועד מידה מיוחדת 167–171 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/roll-pic.jpg|tb-shower-roll-1.jpg|מקלחון חזית רול ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs64",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "151–155 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "171–175 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 131–135 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 135–139 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 139–143 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 143–147 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 147–151 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 155–159 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 159–163 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 163–167 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "מידה מיוחדת 167–171 ס״מ",
+"price": "362",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs65",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs66",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית רול של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,519 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית רול ROLL ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "shoc 1525"
+}
+},
+{
+"sku": "TBS-FRONT-NI",
+"name": "מקלחון חזית פרונט FRONT – ניקל מבריק – טופ בט",
+"slug": "tb-shower-front",
+"status": "publish",
+"regular_price": "1569",
+"short_description": "<p>מקלחון חזית פרונט של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,569 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית פרונט FRONT – ניקל מבריק | טופ בט</h2>\n<p>מקלחון חזית הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית הרמוניקה – שתי דלתות מתקפלות ונצמדות לקיר.</li><li>גובה: 190 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים.</li><li>מידות: 131–137 ס״מ ועד 171–175 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/front-pic-1.jpg|tb-shower-front-1.jpg|מקלחון חזית פרונט ניקל מבריק – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/front-pic-2.jpg|tb-shower-front-2.jpg|מקלחון חזית פרונט ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs67",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "131–137 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "135–139 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "139–143 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "143–147 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "147–151 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "151–155 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "155–159 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "159–163 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "163–167 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "167–171 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "171–175 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs68",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs69",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית פרונט של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,569 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית פרונט FRONT ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 1569"
+}
+},
+{
+"sku": "TBS-SLIDE-BL",
+"name": "מקלחון חזית סלייד SLIDE – שחור – טופ בט",
+"slug": "tb-shower-slide-black",
+"status": "publish",
+"regular_price": "1279",
+"short_description": "<p>מקלחון חזית סלייד של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,279 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית סלייד SLIDE – שחור | טופ בט</h2>\n<p>מקלחון חזית הזזה – דופן קבועה (ימין או שמאל) ודלת הזזה במסילה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית הזזה – דופן קבועה (ימין או שמאל) ודלת הזזה במסילה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: גלגלי אל-חלד כפולים לתנועה קלה ושקטה, מגנטים לאטימה.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 110–120 ס״מ ועד 180–200 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/slide-black-pic.jpg|tb-shower-slide-black-1.jpg|מקלחון חזית סלייד שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs70",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "110–120 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "120–130 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "130–140 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "140–160 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "160–180 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "180–200 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs71",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs72",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית סלייד של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-1,279 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית סלייד SLIDE שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1280"
+}
+},
+{
+"sku": "TBS-ENTER-BL",
+"name": "מקלחון חזית אנטר ENTER – שחור – טופ בט",
+"slug": "tb-shower-enter-black",
+"status": "publish",
+"regular_price": "1449",
+"short_description": "<p>מקלחון חזית אנטר של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-1,449 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון חזית אנטר ENTER – שחור | טופ בט</h2>\n<p>מקלחון חזית הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון חזית הזזה – שתי דפנות קבועות ושתי דלתות הזזה במסילה.</li><li>גובה: 190 ס״מ.</li><li>פרזול: 8 מערכות גלגלי אל-חלד, מגנטים שחורים, זוג ידיות.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 135–140 ס״מ ועד 195–200 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"front-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/enter-black-pic.jpg|tb-shower-enter-black-1.jpg|מקלחון חזית אנטר שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון חזית"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs73",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "135–140 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "140–145 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "145–150 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "150–155 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "155–160 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "160–165 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "165–170 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "170–175 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "175–180 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "180–185 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "185–190 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "190–195 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "195–200 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs74",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs75",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון חזית אנטר של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-1,449 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון חזית אנטר ENTER שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1450"
+}
+},
+{
+"sku": "TBS-PRINCE-NI",
+"name": "מקלחון פינתי פרינס PRINCE – ניקל מבריק – טופ בט",
+"slug": "tb-shower-prince",
+"status": "publish",
+"regular_price": "1489",
+"short_description": "<p>מקלחון פינתי פרינס של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 188 ס״מ. החל מ-1,489 ₪ כולל מע״מ.</p>",
+"description": "<h2>מקלחון פינתי פרינס PRINCE – ניקל מבריק | טופ בט</h2>\n<p>מקלחון פינתי – שתי דלתות חזית על ציר (FREE) לצד דופן קבועה (FIX) עם פרופיל מקשר. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: מקלחון פינתי – שתי דלתות חזית על ציר (FREE) לצד דופן קבועה (FIX) עם פרופיל מקשר.</li><li>גובה: 188 ס״מ.</li><li>פרזול: ציר חכם עולה-יורד מפלדת אל-חלד, מגב רצפה מסיליקון ומגנטים לאטימה, זוג ידיות כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 65–70 ס״מ ועד 171–175 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"corner-showers"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/prince-pic-1-1.jpg|tb-shower-prince-1.jpg|מקלחון פינתי פרינס ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"מקלחון פינתי"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"188"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs76",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "65–70 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "71–75 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "76–80 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "81–85 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "86–90 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "91–95 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "96–100 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "101–105 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "106–110 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "111–115 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "116–120 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "121–125 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "126–130 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "131–135 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "136–140 ס״מ",
+"price": "200",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "141–145 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "146–150 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "151–155 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "171–175 ס״מ",
+"price": "400",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs77",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs78",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "מקלחון פינתי פרינס של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-1,489 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "מקלחון פינתי פרינס PRINCE ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 1490"
+}
+},
+{
+"sku": "TBS-COOL-NI",
+"name": "דופן קבועה למקלחון קול COOL – ניקל מבריק – טופ בט",
+"slug": "tb-shower-cool-nickel",
+"status": "publish",
+"regular_price": "649",
+"short_description": "<p>דופן קבועה למקלחון קול של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 188 ס״מ. החל מ-649 ₪ כולל מע״מ.</p>",
+"description": "<h2>דופן קבועה למקלחון קול COOL – ניקל מבריק | טופ בט</h2>\n<p>דופן קבועה המחוברת לקיר עם מוט חיזוק – גם כדופן צד המשלימה למקלחון. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: דופן קבועה המחוברת לקיר עם מוט חיזוק – גם כדופן צד המשלימה למקלחון.</li><li>גובה: 188 ס״מ.</li><li>פרזול: מוט חיזוק.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים.</li><li>מידות: 69–71 ס״מ ועד 89–91 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/cool-nickel-pic.jpg|tb-shower-cool-nickel-1.jpg|דופן קבועה למקלחון קול ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"דופן קבועה למקלחון"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"188"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs79",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "69–71 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "71–73 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "73–75 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "75–77 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "77–79 (80) ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "79–81 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "81–83 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "83–85 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "85–87 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "87–89 (90) ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "89–91 ס״מ",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs80",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs81",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "דופן קבועה למקלחון קול של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-649 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "דופן קבועה למקלחון קול COOL ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 649"
+}
+},
+{
+"sku": "TBS-COOL-GO",
+"name": "דופן קבועה למקלחון קול COOL – זהב מט – טופ בט",
+"slug": "tb-shower-cool",
+"status": "publish",
+"regular_price": "699",
+"short_description": "<p>דופן קבועה למקלחון קול של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 188 ס״מ. החל מ-699 ₪ כולל מע״מ.</p>",
+"description": "<h2>דופן קבועה למקלחון קול COOL – זהב מט | טופ בט</h2>\n<p>דופן קבועה המחוברת לקיר עם מוט חיזוק – גם כדופן צד המשלימה למקלחון. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: דופן קבועה המחוברת לקיר עם מוט חיזוק – גם כדופן צד המשלימה למקלחון.</li><li>גובה: 188 ס״מ.</li><li>פרזול: מוט חיזוק.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 70 ס״מ (נטו 69–71) ועד 90 ס״מ (נטו 89–91).</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/cool-pic.jpg|tb-shower-cool-1.jpg|דופן קבועה למקלחון קול זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"דופן קבועה למקלחון"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"188"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs82",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "70 ס״מ (נטו 69–71)",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "80 ס״מ (נטו 79–81)",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "90 ס״מ (נטו 89–91)",
+"price": "100",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs83",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs84",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "דופן קבועה למקלחון קול של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-699 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "דופן קבועה למקלחון קול COOL זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 699"
+}
+},
+{
+"sku": "TBS-FIX-BL",
+"name": "דופן קבועה למקלחון פיקס FIX – שחור – טופ בט",
+"slug": "tb-shower-fix-black",
+"status": "publish",
+"regular_price": "799",
+"short_description": "<p>דופן קבועה למקלחון פיקס של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-799 ₪ כולל מע״מ.</p>",
+"description": "<h2>דופן קבועה למקלחון פיקס FIX – שחור | טופ בט</h2>\n<p>דופן קבועה שמתחברת לכל מקלחון – פינתי או חזית. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: דופן קבועה שמתחברת לכל מקלחון – פינתי או חזית.</li><li>גובה: 190 ס״מ.</li><li>פרזול: פרופיל מקשר.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / שקוף עם פסים שחורים.</li><li>מידות: 39 ס״מ ועד 86.5 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/fix-black-pic.jpg|tb-shower-fix-black-1.jpg|דופן קבועה למקלחון פיקס שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"דופן קבועה למקלחון"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"שקוף עם פסים שחורים"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs85",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "39 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "44 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "49 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "54 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "59 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "66 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "71 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "76 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "81 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "86.5 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs86",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "שקוף עם פסים שחורים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-104.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs87",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "דופן קבועה למקלחון פיקס של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-799 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "דופן קבועה למקלחון פיקס FIX שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 800"
+}
+},
+{
+"sku": "TBS-FIX-GO",
+"name": "דופן קבועה למקלחון פיקס FIX – זהב מט – טופ בט",
+"slug": "tb-shower-fix-gold-matte",
+"status": "publish",
+"regular_price": "579",
+"short_description": "<p>דופן קבועה למקלחון פיקס של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 190 ס״מ. החל מ-579 ₪ כולל מע״מ.</p>",
+"description": "<h2>דופן קבועה למקלחון פיקס FIX – זהב מט | טופ בט</h2>\n<p>דופן קבועה שמתחברת לכל מקלחון – פינתי או חזית. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: דופן קבועה שמתחברת לכל מקלחון – פינתי או חזית.</li><li>גובה: 190 ס״מ.</li><li>פרזול: פרופיל מקשר.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 39 ס״מ ועד 49 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/fix-pic-1.jpg|tb-shower-fix-gold-matte-1.jpg|דופן קבועה למקלחון פיקס זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"דופן קבועה למקלחון"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"190"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "מידה (רוחב)",
+"title_format": "label",
+"description_enable": 1,
+"description": "מידות נטו לפי טבלת היצרן. \"מידה מיוחדת\" – מיוצרת לפי הזמנה. המידה הסופית נקבעת במדידה.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs88",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "39 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "44 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "49 ס״מ",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs89",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs90",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "דופן קבועה למקלחון פיקס של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-579 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "דופן קבועה למקלחון פיקס FIX זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 585"
+}
+},
+{
+"sku": "TBS-WALL-NI",
+"name": "אמבטיון וואל WALL – ניקל מבריק – טופ בט",
+"slug": "tb-shower-wall-nickel",
+"status": "publish",
+"regular_price": "519",
+"short_description": "<p>אמבטיון וואל של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-519 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון וואל WALL – ניקל מבריק | טופ בט</h2>\n<p>אמבטיון – דופן קבועה על האמבטיה, 70×140 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דופן קבועה על האמבטיה, 70×140 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: דופן קבועה.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: 70×140 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/wall-nickel-pic-1.jpg|tb-shower-wall-nickel-1.jpg|אמבטיון וואל ניקל מבריק – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/wall-nickel-pic-2.jpg|tb-shower-wall-nickel-2.jpg|אמבטיון וואל ניקל מבריק – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/wall-nickel-pic-3.jpg|tb-shower-wall-nickel-3.jpg|אמבטיון וואל ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs91",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs92",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון וואל של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-519 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון וואל WALL ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 519"
+}
+},
+{
+"sku": "TBS-WALL-BL",
+"name": "אמבטיון וואל WALL – שחור – טופ בט",
+"slug": "tb-shower-wall",
+"status": "publish",
+"regular_price": "499",
+"short_description": "<p>אמבטיון וואל של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-499 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון וואל WALL – שחור | טופ בט</h2>\n<p>אמבטיון – דופן קבועה על האמבטיה, 70×140 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דופן קבועה על האמבטיה, 70×140 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: דופן קבועה.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: 70×140 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/wall-pic.jpg|tb-shower-wall-1.jpg|אמבטיון וואל שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs93",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs94",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון וואל של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-499 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון וואל WALL שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 499"
+}
+},
+{
+"sku": "TBS-TOWN-NI",
+"name": "אמבטיון טאון TOWN – ניקל מבריק – טופ בט",
+"slug": "tb-shower-town",
+"status": "publish",
+"regular_price": "849",
+"short_description": "<p>אמבטיון טאון של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-849 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון טאון TOWN – ניקל מבריק | טופ בט</h2>\n<p>אמבטיון הרמוניקה – מתקפל ונצמד לקיר, פתיחה פנימה והחוצה, רוחב 110 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון הרמוניקה – מתקפל ונצמד לקיר, פתיחה פנימה והחוצה, רוחב 110 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: ידית כפתור.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: רוחב 110 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/town-pic.jpg|tb-shower-town-1.jpg|אמבטיון טאון ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs95",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs96",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון טאון של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-849 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון טאון TOWN ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 850"
+}
+},
+{
+"sku": "TBS-YORK-NI",
+"name": "אמבטיון יורק YORK – ניקל מבריק – טופ בט",
+"slug": "tb-shower-york",
+"status": "publish",
+"regular_price": "629",
+"short_description": "<p>אמבטיון יורק של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-629 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון יורק YORK – ניקל מבריק | טופ בט</h2>\n<p>אמבטיון – דלת נפתחת פנימה והחוצה, רוחב 77.5–80 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דלת נפתחת פנימה והחוצה, רוחב 77.5–80 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: מגב תחתון מסיליקון, ידית מתלה מגבת.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: רוחב 77.5–80 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/york-pic-1.jpg|tb-shower-york-1.jpg|אמבטיון יורק ניקל מבריק – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/york-pic-2.jpg|tb-shower-york-2.jpg|אמבטיון יורק ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs97",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs98",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון יורק של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-629 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון יורק YORK ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 634"
+}
+},
+{
+"sku": "TBS-COUNTRY-NI",
+"name": "אמבטיון קאנטרי COUNTRY – ניקל מבריק – טופ בט",
+"slug": "tb-shower-country-nickel",
+"status": "publish",
+"regular_price": "599",
+"short_description": "<p>אמבטיון קאנטרי של טופ בט – ניקל מבריק, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-599 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון קאנטרי COUNTRY – ניקל מבריק | טופ בט</h2>\n<p>אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: ידית מתלה מגבת.</li><li>פרופיל: כרום איכותי בגימור ניקל מבריק.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף / פסים / פפיטה.</li><li>מידות: רוחב 120 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/country-nickel-pic.jpg|tb-shower-country-nickel-1.jpg|אמבטיון קאנטרי ניקל מבריק – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"ניקל מבריק"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף",
+"פסים",
+"פפיטה"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs99",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פסים",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-etch-101.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+},
+{
+"label": "פפיטה",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-pipita.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs100",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון קאנטרי של טופ בט, ניקל מבריק, זכוכית 6 מ״מ. החל מ-599 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון קאנטרי COUNTRY ניקל מבריק | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "marco-online 599"
+}
+},
+{
+"sku": "TBS-COUNTRY-BL",
+"name": "אמבטיון קאנטרי COUNTRY – שחור – טופ בט",
+"slug": "tb-shower-country-black",
+"status": "publish",
+"regular_price": "699",
+"short_description": "<p>אמבטיון קאנטרי של טופ בט – שחור, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-699 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון קאנטרי COUNTRY – שחור | טופ בט</h2>\n<p>אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: ידית מתלה מגבת.</li><li>פרופיל: גימור שחור.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: רוחב 120 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/country-black-pic-1.jpg|tb-shower-country-black-1.jpg|אמבטיון קאנטרי שחור – טופ בט",
+"https://topbath.co.il/wp-content/uploads/2025/01/country-black-pic-2.jpg|tb-shower-country-black-2.jpg|אמבטיון קאנטרי שחור – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"שחור"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs101",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs102",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון קאנטרי של טופ בט, שחור, זכוכית 6 מ״מ. החל מ-699 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון קאנטרי COUNTRY שחור | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 699"
+}
+},
+{
+"sku": "TBS-COUNTRY-GO",
+"name": "אמבטיון קאנטרי COUNTRY – זהב מט – טופ בט",
+"slug": "tb-shower-country",
+"status": "publish",
+"regular_price": "879",
+"short_description": "<p>אמבטיון קאנטרי של טופ בט – זהב מט, זכוכית מחוסמת 6 מ״מ, גובה 140 ס״מ. החל מ-879 ₪ כולל מע״מ.</p>",
+"description": "<h2>אמבטיון קאנטרי COUNTRY – זהב מט | טופ בט</h2>\n<p>אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ. מבית טופ בט – יבואן ויצרן מקלחונים ותיק בישראל, סדרת זכוכית 6 מ״מ.</p>\n<h3>מפרט</h3><ul><li>מבנה: אמבטיון – דלת 65 ס״מ על ציר ודופן קבועה 55 ס״מ, רוחב 120 ס״מ.</li><li>גובה: 140 ס״מ.</li><li>פרזול: ידית מתלה מגבת בגימור זהב מט.</li><li>פרופיל: גימור זהב מט.</li><li>זכוכית: 6 מ״מ מחוסמת – שקוף.</li><li>מידות: רוחב 120 ס״מ.</li></ul>\n<h3>הובלה והתקנה</h3><ul><li>התקנה ע״י מתקין מורשה מטעם היצרן: 350 ₪ כולל מע״מ, משולם ישירות למתקין ולא נגבה באתר.</li><li>המידה הסופית נקבעת במדידה לפני ההתקנה.</li></ul>\n<h3>אחריות</h3><ul><li>אחריות יצרן, בכפוף להתקנה ע״י מתקין מורשה.</li></ul>",
+"categories": [
+"topbath-showers",
+"shower-enclosures",
+"bath-screens"
+],
+"images": [
+"https://topbath.co.il/wp-content/uploads/2025/01/country-pic.jpg|tb-shower-country-1.jpg|אמבטיון קאנטרי זהב מט – טופ בט"
+],
+"attributes": [
+[
+"מותג",
+[
+"טופ בט"
+]
+],
+[
+"סוג",
+[
+"אמבטיון"
+]
+],
+[
+"גימור פרופיל",
+[
+"זהב מט"
+]
+],
+[
+"עובי זכוכית (מ״מ)",
+[
+"6"
+]
+],
+[
+"גובה (ס״מ)",
+[
+"140"
+]
+],
+[
+"סוגי זכוכית",
+[
+"שקוף"
+]
+]
+],
+"addons": [
+{
+"name": "זכוכית",
+"title_format": "label",
+"description_enable": 1,
+"description": "זכוכית מחוסמת 6 מ״מ.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "images",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs103",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "שקוף",
+"price": "",
+"image": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/sw/glass-clear-std.jpg",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+},
+{
+"name": "מתקין מטעם היצרן",
+"title_format": "label",
+"description_enable": 1,
+"description": "התקנה ע״י מתקין מורשה מטעם היצרן. התשלום ישירות למתקין ואינו נגבה באתר.",
+"placeholder_enable": 0,
+"placeholder": "",
+"type": "multiple_choice",
+"display": "select",
+"position": 0,
+"required": 1,
+"restrictions": 0,
+"restrictions_type": "any_text",
+"adjust_price": 0,
+"price_type": "flat_fee",
+"price": "",
+"id": "tbs104",
+"min": 0,
+"max": 0,
+"default": "",
+"options": [
+{
+"label": "הובלה והתקנה ע״י מתקין מורשה מטעם טופ בט – 350 ₪ כולל מע״מ, משולם ישירות למתקין, לא נגבה באתר",
+"price": "",
+"image": "",
+"price_type": "flat_fee",
+"visibility": 1
+}
+]
+}
+],
+"meta": {
+"advanced_seo_description": "אמבטיון קאנטרי של טופ בט, זהב מט, זכוכית 6 מ״מ. החל מ-879 ₪ כולל מע״מ. BathMall.",
+"jetpack_seo_html_title": "אמבטיון קאנטרי COUNTRY זהב מט | מחיר | טופ בט – BathMall",
+"_bm_supplier": "topbath",
+"_bm_market_ref": "ambat4u 880"
+}
+}
+]
+}
