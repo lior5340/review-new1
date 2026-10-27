@@ -1,0 +1,68 @@
+
+
+/* BathMall: סרגל נגישות צף */
+add_action('wp_footer', function () {
+	if (is_admin()) return; ?>
+<style>
+#bm-a11y-btn{position:fixed;left:0;top:50%;transform:translateY(-50%);z-index:99990;width:46px;height:46px;border:0;border-radius:0 10px 10px 0;background:#0e0e0e;color:#d4b06a;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+#bm-a11y-btn:focus-visible,#bm-a11y-panel button:focus-visible,#bm-a11y-panel a:focus-visible{outline:3px solid #d4b06a;outline-offset:2px}
+#bm-a11y-panel{position:fixed;left:54px;top:50%;transform:translateY(-50%);z-index:99991;width:260px;max-height:86vh;overflow:auto;background:#fff;color:#111;border:2px solid #0e0e0e;border-radius:12px;padding:14px;font:15px/1.4 Arial,Helvetica,sans-serif;direction:rtl;box-shadow:0 8px 30px rgba(0,0,0,.25)}
+#bm-a11y-panel[hidden]{display:none}
+#bm-a11y-panel h2{font:700 17px/1.3 Arial,sans-serif;margin:0 0 10px;color:#111}
+#bm-a11y-panel .g{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+#bm-a11y-panel button{font:14px/1.3 Arial,sans-serif;padding:9px 6px;border:1px solid #bbb;border-radius:8px;background:#f6f6f6;color:#111;cursor:pointer;text-align:center}
+#bm-a11y-panel button[aria-pressed="true"]{background:#0e0e0e;color:#fff;border-color:#0e0e0e}
+#bm-a11y-panel .w{grid-column:1/-1}
+#bm-a11y-panel .x{position:absolute;top:8px;left:8px;width:30px;height:30px;padding:0;border-radius:50%}
+#bm-a11y-panel a{display:block;margin-top:10px;color:#0b57d0;text-align:center}
+html.bma-hc{filter:contrast(1.45)}
+html.bma-gs{filter:grayscale(1)}
+html.bma-hc.bma-gs{filter:contrast(1.45) grayscale(1)}
+html.bma-links .wp-site-blocks a{text-decoration:underline!important;outline:2px dashed #b00;outline-offset:2px}
+html.bma-font .wp-site-blocks,html.bma-font .wp-site-blocks *{font-family:Arial,Helvetica,sans-serif!important;letter-spacing:.02em}
+html.bma-still *,html.bma-still *::before,html.bma-still *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+html.bma-cursor,html.bma-cursor *{cursor:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Cpath d='M4 2l26 16-11 2 7 13-5 3-7-13-8 7z' fill='%23000' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E") 4 2,auto!important}
+html.bma-z1 .wp-site-blocks{zoom:1.1}html.bma-z2 .wp-site-blocks{zoom:1.2}html.bma-z3 .wp-site-blocks{zoom:1.35}
+@media(max-width:600px){#bm-a11y-btn{width:40px;height:40px;top:auto;bottom:150px;transform:none}#bm-a11y-panel{left:8px;right:8px;width:auto;top:auto;bottom:70px;transform:none}}
+@media print{#bm-a11y-btn,#bm-a11y-panel{display:none}}
+</style>
+<button id="bm-a11y-btn" type="button" aria-label="תפריט נגישות" aria-controls="bm-a11y-panel" aria-expanded="false" title="נגישות">
+<svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="4" r="2" fill="currentColor"/><path fill="currentColor" d="M19 8.5c-2.2.5-4.5.8-7 .8s-4.8-.3-7-.8l-.5 1.9c1.9.4 3.8.7 5.8.8V14l-2 7h2.1l1.6-5.6 1.6 5.6h2.1l-2-7v-2.8c2-.1 3.9-.4 5.8-.8z"/></svg>
+</button>
+<div id="bm-a11y-panel" role="dialog" aria-modal="false" aria-labelledby="bm-a11y-h" hidden>
+<button type="button" class="x" data-a="close" aria-label="סגירת תפריט הנגישות">✕</button>
+<h2 id="bm-a11y-h">נגישות</h2>
+<div class="g">
+<button type="button" data-a="zin">הגדלת תצוגה +</button>
+<button type="button" data-a="zout">הקטנת תצוגה −</button>
+<button type="button" data-t="hc" aria-pressed="false">ניגודיות גבוהה</button>
+<button type="button" data-t="gs" aria-pressed="false">גווני אפור</button>
+<button type="button" data-t="links" aria-pressed="false">הדגשת קישורים</button>
+<button type="button" data-t="font" aria-pressed="false">גופן קריא</button>
+<button type="button" data-t="still" aria-pressed="false">עצירת אנימציות</button>
+<button type="button" data-t="cursor" aria-pressed="false">סמן גדול</button>
+<button type="button" class="w" data-a="reset">איפוס הגדרות</button>
+</div>
+<a href="/accessibility/">להצהרת הנגישות</a>
+</div>
+<script>
+(function(){
+var K='bm_a11y',H=document.documentElement,b=document.getElementById('bm-a11y-btn'),p=document.getElementById('bm-a11y-panel');
+var s={};try{s=JSON.parse(localStorage.getItem(K)||'{}')||{};}catch(e){}
+function save(){try{localStorage.setItem(K,JSON.stringify(s));}catch(e){}}
+function apply(){['hc','gs','links','font','still','cursor'].forEach(function(t){H.classList.toggle('bma-'+t,!!s[t]);var x=p.querySelector('[data-t="'+t+'"]');if(x)x.setAttribute('aria-pressed',s[t]?'true':'false');});
+H.classList.remove('bma-z1','bma-z2','bma-z3');if(s.z>0)H.classList.add('bma-z'+s.z);}
+function open(o){p.hidden=!o;b.setAttribute('aria-expanded',o?'true':'false');if(o){var f=p.querySelector('button:not(.x)');if(f)f.focus();}else b.focus();}
+b.addEventListener('click',function(){open(p.hidden);});
+p.addEventListener('click',function(e){var x=e.target.closest('button');if(!x)return;
+if(x.dataset.t){s[x.dataset.t]=!s[x.dataset.t];}
+else if(x.dataset.a==='zin'){s.z=Math.min(3,(s.z||0)+1);}
+else if(x.dataset.a==='zout'){s.z=Math.max(0,(s.z||0)-1);}
+else if(x.dataset.a==='reset'){s={};}
+else if(x.dataset.a==='close'){open(false);return;}
+save();apply();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!p.hidden)open(false);});
+apply();
+})();
+</script>
+<?php }, 50);
