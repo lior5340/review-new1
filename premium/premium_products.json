@@ -1,5 +1,5 @@
 {
-"version": "ps-v3",
+"version": "ps-v4",
 "logo": "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/premium-showers-logo.png",
 "categories": [
 {
@@ -7,6 +7,24 @@
 "name": "מקלחונים",
 "parent": "",
 "description": "מקלחונים, אמבטיונים ודלתות זכוכית בהתאמה אישית – מידות לפי מדידה, זכוכית מחוסמת ופרזול לבחירה, עם מדידה והתקנה עד הבית."
+},
+{
+"slug": "corner-showers",
+"name": "מקלחון פינתי",
+"parent": "shower-enclosures",
+"description": "מקלחונים פינתיים וקטומים לפי מידה – על צירים או בפרופילים, זכוכית מחוסמת 6–10 מ״מ, מדידה והתקנה עד הבית."
+},
+{
+"slug": "front-showers",
+"name": "מקלחון חזיתי",
+"parent": "shower-enclosures",
+"description": "מקלחוני חזית בין קירות ובגומחה, הזזה, צירים ואופן ספייס – לפי מידה עד 240 ס״מ, מדידה והתקנה עד הבית."
+},
+{
+"slug": "bath-screens",
+"name": "אמבטיונים",
+"parent": "shower-enclosures",
+"description": "אמבטיונים לפי מידה – דלת, דופן קבועה, הרמוניקה והזזה, לאמבטיה רגילה ופינתית, מדידה והתקנה עד הבית."
 },
 {
 "slug": "premium-showers",
@@ -81,7 +99,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-005-1.jpg|premium-shower-onx-01-1.jpg|מקלחון חזית הזזה CNC אוניקס 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -655,7 +674,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-006-1.jpg|premium-shower-onx-02-1.jpg|מקלחון חזית הזזה CNC אוניקס 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -1236,7 +1256,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-007-1.jpg|premium-shower-onx-03-1.jpg|מקלחון חזית הזזה CNC אוניקס 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -1817,7 +1838,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-008-1.jpg|premium-shower-onx-04-1.jpg|מקלחון פינתי הזזה CNC אוניקס 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -2347,7 +2369,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-009-1.jpg|premium-shower-onx-05-1.jpg|מקלחון חזית הזזה אוניקס 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -2921,7 +2944,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-010-1.jpg|premium-shower-onx-06-1.jpg|מקלחון חזית הזזה אוניקס 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -3502,7 +3526,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-011-1.jpg|premium-shower-onx-07-1.jpg|מקלחון חזית הזזה אוניקס 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -4076,7 +4101,8 @@
 "categories": [
 "premium-sliding",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-012-1.jpg|premium-shower-onx-08-1.jpg|מקלחון פינתי הזזה אוניקס 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -4606,7 +4632,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-013-1.jpg|premium-shower-lum-01-1.jpg|אמבטיון הזזה CNC לומה 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -5173,7 +5200,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-014-1.jpg|premium-shower-lum-02-1.jpg|אמבטיון הזזה CNC לומה 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -5747,7 +5775,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-015-1.jpg|premium-shower-lum-03-1.jpg|אמבטיון הזזה CNC לומה 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -6314,7 +6343,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-016-1.jpg|premium-shower-lum-04-1.jpg|אמבטיון הזזה לומה 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -6756,7 +6786,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-018-1.jpg|premium-shower-lum-05-1.jpg|אמבטיון הזזה לומה 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -7205,7 +7236,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-019-1.jpg|premium-shower-lum-06-1.jpg|אמבטיון הזזה לומה 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -7647,7 +7679,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-020-1.jpg|premium-shower-elg-01-1.jpg|מקלחון פינתי אלגנט 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -8214,7 +8247,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-021-1.jpg|premium-shower-elg-02-1.jpg|מקלחון פינתי אלגנט 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -8744,7 +8778,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-022-1.jpg|premium-shower-elg-03-1.jpg|מקלחון פינתי אלגנט 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -9325,7 +9360,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-023-1.jpg|premium-shower-elg-04-1.jpg|מקלחון פינתי אלגנט 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -9899,7 +9935,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-024-1.jpg|premium-shower-elg-05-1.jpg|מקלחון פינתי אלגנט 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -10480,7 +10517,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-025-1.jpg|premium-shower-elg-06-1.jpg|מקלחון פינתי אלגנט 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -11068,7 +11106,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-026-1.jpg|premium-shower-elg-07-1.jpg|מקלחון פינתי אלגנט 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -11642,7 +11681,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-027-1.jpg|premium-shower-elg-08-1.jpg|מקלחון פינתי אלגנט 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -12216,7 +12256,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-028-1.jpg|premium-shower-elg-09-1.jpg|מקלחון פינתי אלגנט 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -12790,7 +12831,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-029-1.jpg|premium-shower-elg-10-1.jpg|מקלחון פינתי אלגנט 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -13364,7 +13406,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-031-1.jpg|premium-shower-vns-01-1.jpg|מקלחון פינתי קטום ונוס 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -13806,7 +13849,8 @@
 "categories": [
 "premium-corner-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-032-1.jpg|premium-shower-vns-02-1.jpg|מקלחון פינתי קטום ונוס 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -14055,7 +14099,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-033-1.jpg|premium-shower-rvr-01-1.jpg|מקלחון חזית ריביירה 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -14578,7 +14623,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-034-1.jpg|premium-shower-rvr-02-1.jpg|מקלחון חזית ריביירה 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -15367,7 +15413,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-035-1.jpg|premium-shower-rvr-03-1.jpg|מקלחון חזית ריביירה 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -16181,7 +16228,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-036-1.jpg|premium-shower-rvr-04-1.jpg|מקלחון חזית ריביירה 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -16827,7 +16875,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-037-1.jpg|premium-shower-rvr-05-1.jpg|מקלחון חזית ריביירה 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -17480,7 +17529,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-038-1.jpg|premium-shower-rvr-06-1.jpg|מקלחון חזית ריביירה 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -18126,7 +18176,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-039-1.jpg|premium-shower-rvr-07-1.jpg|מקלחון חזית ריביירה 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -18682,7 +18733,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-040-1.jpg|premium-shower-rvr-08-1.jpg|מקלחון חזית ריביירה 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -19284,7 +19336,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-041-1.jpg|premium-shower-rvr-09-1.jpg|מקלחון חזית ריביירה 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -19923,7 +19976,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-042-1.jpg|premium-shower-rvr-10-1.jpg|מקלחון חזית ריביירה 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -20562,7 +20616,8 @@
 "categories": [
 "premium-front-hinge",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-043-1.jpg|premium-shower-rvr-11-1.jpg|מקלחון חזית ריביירה 11 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -21201,7 +21256,8 @@
 "categories": [
 "premium-walk-in",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-044-1.jpg|premium-shower-ops-01-1.jpg|מקלחון אופן ספייס אופן ספייס 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -21427,7 +21483,8 @@
 "categories": [
 "premium-walk-in",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-045-1.jpg|premium-shower-ops-02-1.jpg|מקלחון אופן ספייס אופן ספייס 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -21823,7 +21880,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-047-1.jpg|premium-shower-mrn-01-1.jpg|אמבטיון מרינה 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -22390,7 +22448,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-048-1.jpg|premium-shower-mrn-02-1.jpg|אמבטיון מרינה 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -22957,7 +23016,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-049-1.jpg|premium-shower-mrn-03-1.jpg|אמבטיון מרינה 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -23605,7 +23665,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-050-1.jpg|premium-shower-mrn-04-1.jpg|אמבטיון מרינה 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -24172,7 +24233,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-051-1.jpg|premium-shower-mrn-05-1.jpg|אמבטיון מרינה 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -24776,7 +24838,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-052-1.jpg|premium-shower-mrn-06-1.jpg|אמבטיון מרינה 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -25387,7 +25450,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-053-1.jpg|premium-shower-mrn-07-1.jpg|אמבטיון מרינה 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -25982,7 +26046,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-054-1.jpg|premium-shower-mrn-08-1.jpg|אמבטיון מרינה 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -26593,7 +26658,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-055-1.jpg|premium-shower-mrn-09-1.jpg|אמבטיון מרינה 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -27160,7 +27226,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-056-1.jpg|premium-shower-mrn-10-1.jpg|אמבטיון מרינה 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -27734,7 +27801,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-057-1.jpg|premium-shower-mrn-11-1.jpg|אמבטיון מרינה 11 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -28352,7 +28420,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-058-1.jpg|premium-shower-mrn-12-1.jpg|אמבטיון מרינה 12 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -28963,7 +29032,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-059-1.jpg|premium-shower-mrn-13-1.jpg|אמבטיון מרינה 13 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -29537,7 +29607,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-060-1.jpg|premium-shower-mrn-14-1.jpg|אמבטיון מרינה 14 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -30097,7 +30168,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-061-1.jpg|premium-shower-mrn-15-1.jpg|אמבטיון מרינה 15 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -30657,7 +30729,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-063-1.jpg|premium-shower-stl-01-1.jpg|מקלחון פינתי סטייל 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -31093,7 +31166,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-064-1.jpg|premium-shower-stl-02-1.jpg|מקלחון פינתי סטייל 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -31566,7 +31640,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-065-1.jpg|premium-shower-stl-03-1.jpg|מקלחון פינתי סטייל 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -32067,7 +32142,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-066-1.jpg|premium-shower-stl-04-1.jpg|מקלחון פינתי סטייל 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -32568,7 +32644,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-067-1.jpg|premium-shower-stl-05-1.jpg|מקלחון פינתי סטייל 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -33069,7 +33146,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-068-1.jpg|premium-shower-stl-06-1.jpg|מקלחון פינתי סטייל 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -33505,7 +33583,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-069-1.jpg|premium-shower-stl-07-1.jpg|מקלחון פינתי סטייל 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -33941,7 +34020,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-070-1.jpg|premium-shower-stl-08-1.jpg|מקלחון פינתי סטייל 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -34442,7 +34522,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-071-1.jpg|premium-shower-stl-09-1.jpg|מקלחון פינתי סטייל 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -34878,7 +34959,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-072-1.jpg|premium-shower-stl-10-1.jpg|מקלחון פינתי סטייל 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -35379,7 +35461,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-073-1.jpg|premium-shower-stl-11-1.jpg|מקלחון פינתי קטום סטייל 11 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -35845,7 +35928,8 @@
 "categories": [
 "premium-corner-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-074-1.jpg|premium-shower-stl-12-1.jpg|מקלחון פינתי קטום סטייל 12 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -36311,7 +36395,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-076-1.jpg|premium-shower-lnr-01-1.jpg|מקלחון חזית ליניאר 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -36733,7 +36818,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-077-1.jpg|premium-shower-lnr-02-1.jpg|מקלחון חזית ליניאר 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -37227,7 +37313,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-078-1.jpg|premium-shower-lnr-03-1.jpg|מקלחון חזית ליניאר 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -37758,7 +37845,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-079-1.jpg|premium-shower-lnr-04-1.jpg|מקלחון חזית ליניאר 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -38289,7 +38377,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-080-1.jpg|premium-shower-lnr-05-1.jpg|מקלחון חזית ליניאר 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -38820,7 +38909,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-081-1.jpg|premium-shower-lnr-06-1.jpg|מקלחון חזית ליניאר 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -39351,7 +39441,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-082-1.jpg|premium-shower-lnr-07-1.jpg|מקלחון חזית ליניאר 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -39815,7 +39906,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-083-1.jpg|premium-shower-lnr-08-1.jpg|מקלחון חזית ליניאר 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -40344,7 +40436,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-084-1.jpg|premium-shower-lnr-09-1.jpg|מקלחון חזית ליניאר 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -40910,7 +41003,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-085-1.jpg|premium-shower-lnr-10-1.jpg|מקלחון חזית ליניאר 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -41483,7 +41577,8 @@
 "categories": [
 "premium-front-profile",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-086-1.jpg|premium-shower-lnr-11-1.jpg|מקלחון חזית ליניאר 11 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -42012,7 +42107,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-087-1.jpg|premium-shower-aqv-01-1.jpg|אמבטיון אקווה 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -42557,7 +42653,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-088-1.jpg|premium-shower-aqv-02-1.jpg|אמבטיון אקווה 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -43139,7 +43236,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-090-1.jpg|premium-shower-aqv-03-1.jpg|אמבטיון אקווה 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -43728,7 +43826,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-091-1.jpg|premium-shower-aqv-04-1.jpg|אמבטיון אקווה 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -44236,7 +44335,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-092-1.jpg|premium-shower-aqv-05-1.jpg|אמבטיון אקווה 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -44781,7 +44881,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-093-1.jpg|premium-shower-aqv-06-1.jpg|אמבטיון אקווה 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -45333,7 +45434,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-094-1.jpg|premium-shower-aqv-07-1.jpg|אמבטיון אקווה 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -45885,7 +45987,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-095-1.jpg|premium-shower-aqv-08-1.jpg|אמבטיון אקווה 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -46437,7 +46540,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-096-1.jpg|premium-shower-aqv-09-1.jpg|אמבטיון אקווה 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -46945,7 +47049,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-097-1.jpg|premium-shower-aqv-10-1.jpg|אמבטיון אקווה 10 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -47460,7 +47565,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-098-1.jpg|premium-shower-aqv-11-1.jpg|אמבטיון אקווה 11 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -48019,7 +48125,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-099-1.jpg|premium-shower-aqv-12-1.jpg|אמבטיון אקווה 12 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -48578,7 +48685,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-100-1.jpg|premium-shower-aqv-13-1.jpg|אמבטיון אקווה 13 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -49100,7 +49208,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-101-1.jpg|premium-shower-aqv-14-1.jpg|אמבטיון אקווה 14 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -49645,7 +49754,8 @@
 "categories": [
 "premium-bath-screens",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-102-1.jpg|premium-shower-aqv-15-1.jpg|אמבטיון אקווה 15 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -50190,7 +50300,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-104-1.jpg|premium-shower-art-01-1.jpg|מקלחון אופן ספייס ארט 01 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -50372,7 +50483,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-105-1.jpg|premium-shower-art-02-1.jpg|מקלחון פינתי ארט 02 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -50839,7 +50951,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"corner-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-106-1.jpg|premium-shower-art-03-1.jpg|מקלחון פינתי ארט 03 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -51269,7 +51382,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-107-1.jpg|premium-shower-art-04-1.jpg|מקלחון אופן ספייס ארט 04 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -51581,7 +51695,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-108-1.jpg|premium-shower-art-05-1.jpg|מקלחון אופן ספייס ארט 05 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -51884,7 +51999,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-109-1.jpg|premium-shower-art-06-1.jpg|מקלחון חזית ארט 06 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -52307,7 +52423,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"front-showers"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-110-1.jpg|premium-shower-art-07-1.jpg|מקלחון חזית ארט 07 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -52758,7 +52875,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-111-1.jpg|premium-shower-art-08-1.jpg|אמבטיון ארט 08 – מקלחוני פרימיום – הדמיה בחדר רחצה",
@@ -53174,7 +53292,8 @@
 "categories": [
 "premium-art",
 "premium-showers",
-"shower-enclosures"
+"shower-enclosures",
+"bath-screens"
 ],
 "images": [
 "https://raw.githubusercontent.com/lior5340/review-new1/so-images/premium/ps-112-1.jpg|premium-shower-art-09-1.jpg|אמבטיון ארט 09 – מקלחוני פרימיום – הדמיה בחדר רחצה",
